@@ -1,0 +1,174 @@
+<?php
+/**
+* @file
+* A description of what your module does.
+*/
+use Parse\ParseClient;
+use Parse\ParseFile;
+use Parse\ParseQuery;
+
+require_once('autoload.php');
+
+ParseClient::initialize( variable_get('parse_application_id', NULL), variable_get('parse_restkey', NULL), variable_get('parse_masterkey', NULL) );
+
+/**
+ * Implements hook_menu().
+ */
+function parse_integration_menu() {
+  $items = array();
+  $items['admin/config/services/parse_integration'] = array(
+    'title' => 'Parse Integration',
+    'description' => t('Configure Parse REST API settings.'),
+    //when the user go to mysite/?q=admin/services/parse_integration
+    //call the function system_admin_menu_block_page().
+    //Look for a function describing this form in the file system.admin.inc.
+    'page callback' => 'system_admin_menu_block_page',
+    'access arguments' => array('administer site configuration'),
+    'file' => 'system.admin.inc',
+    'file path' => drupal_get_path('module', 'system'),
+    'type' => MENU_NORMAL_ITEM,
+  );
+  $items['admin/config/services/parse_integration/settings'] = array(
+    'title' => 'Settings',
+    'description' => t('Configure Parse REST API settings.'),
+    //when the user go to mysite/?q=admin/services/parse_integration/settings
+    //call the function drupal_get_form(), and pass it the form ID parse_admin_settings.
+    //Look for a function describing this form in the file parse_integration.admin.inc.
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('parse_admin_settings'),
+    'access callback' => 'user_access',
+    'access arguments' => array('administer parse api settings'),
+    'file' => 'parse_integration.admin.inc',
+    'type' => MENU_NORMAL_ITEM,
+    'weight' => 0,
+  );
+  return $items;
+}
+
+/**
+ * Implements hook_node_update().
+ */
+function parse_integration_node_update($node) {
+    switch($node->type) {
+        case
+        'article':
+            $query = new ParseQuery("Test");
+            $query->equalTo("vid", $node->nid);
+            try {
+                $results = $query->first();
+                if (count($results) != 0) {
+                    parse_upload($results, $node);
+                } else {
+                    simple_mail_send("mmoro@casinovenezia.it", "mmoro@casinovenezia.it", "Event not present", "The Event deleted in Drupal is not present in Parse db.");
+                }
+
+                // The object was retrieved successfully.
+            } catch (ParseException $ex) {
+                // The object was not retrieved successfully.
+                // error is a ParseException with an error code and message.
+            }
+    }
+    watchdog('load', 'Updated event!');
+}
+
+/**
+ * Implements hook_node_insert().
+ */
+function parse_integration_node_insert($node) {
+
+    switch($node->type){
+        case
+        'article':
+            $object = new \Parse\ParseObject("Test", NULL, FALSE);
+            parse_upload($object, $node);
+    }
+}
+
+function parse_upload($object, $node) {
+    $object->set("Name", $node->title);
+    $description = field_get_items('node', $node, 'field_parse_description');
+    if ($description) {
+        $object->set("Description",$description[0]['value']);
+    }
+    $memo = field_get_items('node', $node, 'field_parse_memo');
+    if ($memo) {
+        $object->set("memo", $memo[0]['value']);
+    }
+
+    $object->set("office",( $node->field_parse_venue[LANGUAGE_NONE][0]['value'] == 1 ? "VE" : "CN"));
+    $object->set("eventType", "E");
+    $object->set("StartDate", new DateTime($node->field_date_from[LANGUAGE_NONE][0]['value']));
+    $object->set("EndDate", new DateTime($node->field_date_to[LANGUAGE_NONE][0]['value']));
+
+    $image_event = field_get_items('node', $node, 'field_parse_image_event');
+    if ($image_event) {
+        $fid = $node->field_parse_image_event['und'][0]['fid'];
+        $source = file_create_url(file_load($fid)->uri);
+        $file = ParseFile::createFromFile($source, "event.png");
+        $file->save();
+        $object->set("ImageName", $file);
+    } else {
+        simple_mail_send("mmoro@casinovenezia.it", "mmoro@casinovenezia.it", "No Image Event", "Image event not set!");
+    }
+    $image_one = field_get_items('node', $node, 'field_parse_image_one');
+    if ($image_one) {
+        $fid = $node->field_parse_image_one['und'][0]['fid'];
+        $source = file_create_url(file_load($fid)->uri);
+        $file = ParseFile::createFromFile($source, "one.png");
+        $file->save();
+        $object->set("ImageEvent1", $file);
+    }
+    $image_two = field_get_items('node', $node, 'field_parse_image_two');
+    if ($image_two) {
+        $fid = $node->field_parse_image_two['und'][0]['fid'];
+        $source = file_create_url(file_load($fid)->uri);
+        $file = ParseFile::createFromFile($source, "two.png");
+        $file->save();
+        $object->set("ImageEvent2", $file);
+    }
+    $image_three = field_get_items('node', $node, 'field_parse_image_three');
+    if ($image_three) {
+        $fid = $node->field_parse_image_three['und'][0]['fid'];
+        $source = file_create_url(file_load($fid)->uri);
+        $file = ParseFile::createFromFile($source, "three.png");
+        $file->save();
+        $object->set("ImageEvent3", $file);
+    }
+    $object->set("vid", $node->vid);
+
+    watchdog('load', 'Updated article!');
+
+    try {
+        $object->save();
+        echo 'New object created with objectId: ' . $object->getObjectId();
+    } catch (ParseException $ex) {
+        // Execute any logic that should take place if the save fails.
+        // error is a ParseException object with an error code and message.
+        echo 'Failed to create new object, with error message: ' . $ex->getMessage();
+        simple_mail_send("mmoro@casinovenezia.it", "mmoro@casinovenezia.it", "Event not saved!", "Failed to save object.");
+    }
+}
+
+/**
+ * Implements hook_node_delete().
+ */
+function parse_integration_node_delete($node)
+{
+
+    watchdog('load', 'Updated article!');
+    $query = new ParseQuery("Test");
+    $query->equalTo("vid", $node->nid);
+    try {
+        $results = $query->first();
+        if (count($results) != 0) {
+            $results->destroy();
+        } else {
+            simple_mail_send("mmoro@casinovenezia.it", "mmoro@casinovenezia.it", "Event not present", "The Event deleted in Drupal is not present in Parse db.");
+        }
+
+        // The object was retrieved successfully.
+    } catch (ParseException $ex) {
+        // The object was not retrieved successfully.
+        // error is a ParseException with an error code and message.
+    }
+}

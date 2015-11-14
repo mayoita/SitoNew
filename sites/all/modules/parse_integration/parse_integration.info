@@ -1,0 +1,9 @@
+name = Parse Integration
+description = Integration of the Parse.com Rest API for upload content.
+core = 7.x
+package = Services
+files[] = parse_integration.module
+files[] = parse_integration.install
+files[] =  parse_integration.admin.inc
+
+configure = admin/config/services/parse_integration/settings
