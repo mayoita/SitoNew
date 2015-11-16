@@ -125,7 +125,9 @@
 <div class="main-container container-fluid event">
 
   <div class="row home">
-
+    <div class="image_bg">
+        <img src="sites/default/files/shadow.png" width="1680" height="565" alt="">
+    </div>
 
     <section<?php print $content_column_class; ?>>
 

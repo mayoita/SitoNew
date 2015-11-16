@@ -3,6 +3,7 @@
     .carousel-inner {
         position: absolute;
         left:calc((100% - 1680px) / 2);
+        width: 1680px;
 
     }
     #online {

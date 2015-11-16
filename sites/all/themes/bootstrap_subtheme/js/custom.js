@@ -23,6 +23,8 @@
             return false;
         });
 
+        $('.image_bg').css('top',Math.ceil($('.field-name-field-cover-image').height() + 120) + 'px');
+
         /*
          * Custom shortcodes: box-toggle
          */
@@ -40,6 +42,7 @@
 
         //Adjust margin-top for Events body
        // $('.panel-col-first').css('margin-top',Math.ceil($('.field-name-field-cover-image').height()) + 'px');
+        $('.image_bg').css('top',Math.ceil($('.field-name-field-cover-image').height() + 120) + 'px');
     });
 
 })(jQuery, Drupal, this, this.document);

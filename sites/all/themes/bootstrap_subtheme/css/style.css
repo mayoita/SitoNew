@@ -432,12 +432,13 @@ padding-left: 20px;
     line-height: 60px;
     margin-right: 40px;
 }
-#block-block-6 {
+.region.region-bottom-top {
     background-color: #172C23;
 }
 
 #bottom-right-6 {
     padding:0px;
+    background-color: transparent;
 }
 /*Event */
 .node .content{
@@ -518,4 +519,17 @@ margin-top: 330px;
 }
 .box-expandable .box-content-collapsed {
     display: none;;
+}
+
+.image_bg {
+    position: absolute;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    max-width: 1680px;
+    margin: 0 auto;
+}
+.color-bg a:link {
+    color: #ebc444;
 }
