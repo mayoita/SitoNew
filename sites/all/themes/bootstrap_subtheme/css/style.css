@@ -201,7 +201,7 @@ nav:first-child {
     transition:bottom 0.4s
 }
 
-.views-field-title {
+.jcarousel .views-field-title {
     position: absolute;
     top: 0px;
     z-index: 1;
@@ -533,3 +533,73 @@ margin-top: 330px;
 .color-bg a:link {
     color: #ebc444;
 }
+.event_header {
+    background-color: #ebc444;
+    color: black;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.event-list-page-fields {
+    margin-bottom: 40px;
+}
+
+.evento-lista .views-field-field_from {
+    top: 0px;
+    left:20px;
+    text-transform: lowercase;
+    position: relative;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+.evento-lista .views-field-title {
+    position: relative;
+    top:0px;
+    left:20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.evento-lista .views-field-field_preview_text {
+    position: relative;
+    top: 55px;
+    left:20px;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+
+
+.evento-lista .views-field-title a{
+
+    text-decoration: none;
+    color: #bd2716;
+
+
+}
+.evento-lista {
+    background: url(../images/intro.png) 0 0 repeat;
+}
+ .evento-lista .group-left, .evento-lista .group-right {
+     padding: 0px;
+ }
+ .views-field-field_preview_image_events img {
+     height: 100%;
+ }
+
+ .evento-lista .group-right {
+     height: 120px;
+ }
+
+ .views-field-field_from_1, .views-field-field_from_2, .views-field-nothing {
+     display: inline;
+     color: rgb(0, 0, 0);
+     font-size: 16px;
+     top: 20px;
+     left:20px;
+     text-transform: lowercase;
+     position: relative;
+ }
