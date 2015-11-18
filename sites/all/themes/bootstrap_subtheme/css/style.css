@@ -544,11 +544,11 @@ margin-top: 330px;
     text-transform: uppercase;
 }
 
-.event-list-page-fields {
-    margin-bottom: 40px;
+.event-list-block-1-fields {
+    margin-top: 40px;
 }
 
-.evento-lista .views-field-field_from {
+.event-list-block-1-fields .views-field-field_from {
     top: 0px;
     left:20px;
     text-transform: lowercase;
@@ -556,7 +556,7 @@ margin-top: 330px;
     color: rgb(0, 0, 0);
     font-size: 16px;
 }
-.evento-lista .views-field-title {
+.event-list-block-1-fields .views-field-title {
     position: relative;
     top:0px;
     left:20px;
@@ -564,7 +564,7 @@ margin-top: 330px;
     font-weight: bold;
 }
 
-.evento-lista .views-field-field_preview_text {
+.event-list-block-1-fields .views-field-field_preview_text {
     position: relative;
     top: 55px;
     left:20px;
@@ -573,24 +573,24 @@ margin-top: 330px;
 }
 
 
-.evento-lista .views-field-title a{
+.event-list-block-1-fields .views-field-title a{
 
     text-decoration: none;
     color: #bd2716;
 
 
 }
-.evento-lista {
+.event-list-block-1-fields {
     background: url(../images/intro.png) 0 0 repeat;
 }
- .evento-lista .group-left, .evento-lista .group-right {
+ .event-list-block-1-fields .group-left, .evento-lista .group-right {
      padding: 0px;
  }
  .views-field-field_preview_image_events img {
      height: 100%;
  }
 
- .evento-lista .group-right {
+ .event-list-block-1-fields .group-right {
      height: 120px;
  }
 
@@ -603,3 +603,10 @@ margin-top: 330px;
      text-transform: lowercase;
      position: relative;
  }
+
+ .node-event-list .event_date {
+     text-transform: none;
+ }
+.node-event-list .field-name-body {
+    margin-left: 0px;
+}
