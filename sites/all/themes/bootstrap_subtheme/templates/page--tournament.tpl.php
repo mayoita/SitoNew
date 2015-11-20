@@ -124,58 +124,78 @@
 
 <div class="main-container container-fluid event">
 
+
+
   <div class="row home">
     <div class="image_bg">
-        <img src="sites/default/files/shadow.png" width="1680" height="565" alt="">
+      <img src="sites/default/files/shadow.png" width="1680" height="565" alt="">
     </div>
+
+
+<div class="aa">OK</div>
     <section<?php print $content_column_class; ?>>
 
-      <?php print render($page['content']); ?>
+      <?php if (!empty($breadcrumb)): print $breadcrumb; endif;?>
 
+
+      <?php if (!empty($tabs)): ?>
+        <?php print render($tabs); ?>
+      <?php endif; ?>
+      <?php if (!empty($page['help'])): ?>
+        <?php print render($page['help']); ?>
+      <?php endif; ?>
+      <?php if (!empty($action_links)): ?>
+        <ul class="action-links"><?php print render($action_links); ?></ul>
+      <?php endif; ?>
+      <?php print render($page['content']); ?>
     </section>
 
-
+    <?php if (!empty($page['sidebar_second'])): ?>
+      <aside class="col-sm-3" role="complementary">
+        <?php print render($page['sidebar_second']); ?>
+      </aside>  <!-- /#sidebar-second -->
+    <?php endif; ?>
 
   </div>
-
-  <div class="row row-bottom">
-    <div id="bottom-top" class="column-wide">
-      <div class="region region-bottom-top">
-        <div class="col-md-6" id="bottom-left">
-          <?php
-          $block = block_load('block', '3');
-          print render(_block_get_renderable_array(_block_render_blocks(array($block))));
-          ?>
-        </div>
-        <div class="col-xs-6" id="bottom-right">
-          <?php
-          $block = block_load('block', '4');
-          print render(_block_get_renderable_array(_block_render_blocks(array($block))));
-          ?>
-
-        </div>
-      </div>
-    </div>
 </div>
-  <div class="row row-bottom menu-bottom">
-    <div id="bottom-top" class="column-wide">
-      <div class="region region-bottom-top">
-        <div class="col-md-6" id="bottom-left-5">
-          <?php
-          $block = block_load('block', '5');
-          print render(_block_get_renderable_array(_block_render_blocks(array($block))));
-          ?>
-        </div>
-        <div class="" id="bottom-right-6">
-          <?php
-          $block = block_load('block', '6');
-          print render(_block_get_renderable_array(_block_render_blocks(array($block))));
-          ?>
+<div class="row row-bottom">
+  <div id="bottom-top" class="column-wide">
+    <div class="region region-bottom-top">
+      <div class="col-md-6" id="bottom-left">
+        <?php
+        $block = block_load('block', '3');
+        print render(_block_get_renderable_array(_block_render_blocks(array($block))));
+        ?>
+      </div>
+      <div class="col-xs-6" id="bottom-right">
+        <?php
+        $block = block_load('block', '4');
+        print render(_block_get_renderable_array(_block_render_blocks(array($block))));
+        ?>
 
-        </div>
       </div>
     </div>
   </div>
+</div>
+<div class="row row-bottom menu-bottom">
+  <div id="bottom-top" class="column-wide">
+    <div class="region region-bottom-top">
+      <div class="col-md-6" id="bottom-left-5">
+        <?php
+        $block = block_load('block', '5');
+        print render(_block_get_renderable_array(_block_render_blocks(array($block))));
+        ?>
+      </div>
+      <div class="" id="bottom-right-6">
+        <?php
+        $block = block_load('block', '6');
+        print render(_block_get_renderable_array(_block_render_blocks(array($block))));
+        ?>
+
+      </div>
+    </div>
+  </div>
+</div>
 <footer class="footer container">
   <?php print render($page['footer']); ?>
 </footer>
