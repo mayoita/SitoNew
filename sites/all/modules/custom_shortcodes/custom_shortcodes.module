@@ -8,7 +8,7 @@
 
 function custom_shortcodes_shortcode_info() {
 
-    $shortcodes['box_colorbg'] = array(
+    $shortcodes['box-colorbg'] = array(
         'title' => t('Box ColorBG'),  // The title of this shortcode, displayed in the Drupal backend for administrators to enable/disable shortcodes for input types
         'description' => t('Add a box with a specified background color.'),  // Description shown along with the title in the Drupal backend
         'process callback' => 'custom_shortcodes_shortcode_box_colorbg', // Custom function that deals with the variables and html output
@@ -78,6 +78,8 @@ function custom_shortcodes_shortcode_box_toggle($attrs, $text) {
  * This function uses the attributes passed in to return the HTML of this shortcode.
  */
 function theme_shortcode_box_colorbg($vars) {
+    if ($vars['color'] == 'white')
+        return '<div class="color-bg box-whitebg">' . $vars['text'] . '</div>';
     return '<div class="color-bg" style="background-color:' . $vars['color'] . '">' . $vars['text'] . '</div>';
 }
 function theme_shortcode_box_toggle($vars) {
@@ -90,7 +92,7 @@ function theme_shortcode_box_toggle($vars) {
  */
 function custom_shortcodes_shortcode_box_colorbg_tip($format, $long) {
     $output = array();
-    $output[] = '<p><strong>' . t('[box_colorbg color=#{hex-format}]text[/box_colorbg]') . '</strong> ';
+    $output[] = '<p><strong>' . t('[box-colorbg color=#{hex-format}]text[/box-colorbg]') . '</strong> ';
     if ($long) {
         $output[] = t('Outputs text inside div with the specified background color.') . '</p>';
     }

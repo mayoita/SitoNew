@@ -46,11 +46,11 @@ img {
 }
 p {
     font-family: "Lusitana",serif;
-    font-size: 17px;
+    font-size: 16px;
 }
 em {
     font-family: "Lusitana",serif;
-    font-size: 17px;
+    font-size: 16px;
     line-height: 1.53em;
 }
 .red a{
@@ -496,6 +496,8 @@ margin-top: 330px;
 }
 .color-bg {
     padding: 20px;
+
+
 }
 /* Shortcode */
 .box-expandable .box-content {
@@ -613,4 +615,84 @@ margin-top: 330px;
 /* Tournament */
 .file img {
     width: 0px;
+}
+.box-whitebg a:link {
+    color: rgb(189, 39, 22);
+}
+
+.box-whitebg {
+    background-color:rgb(239, 236, 227);
+    color: rgb(105, 99, 94);
+}
+
+.event_banner h2 {
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 28px;
+    color: #bd2716;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.group-left.col-md-9{
+    padding: 0px;
+}
+
+.field-name-field-documents a{
+    background-color: #396451;
+    border-bottom: 1px solid #1d332a;
+    border-top: 1px solid #559578;
+    color: white;
+    padding: 10px;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    font-family: Arial,Helvetica,"Nimbus Sans L",sans-serif;
+    display: block;
+    text-decoration: none;
+}
+.field-name-field-documents .label-above{
+    font-size: 0.9em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial,Helvetica,"Nimbus Sans L",sans-serif;
+    color: #fff;
+}
+.field-name-field-documents {
+    margin-top: 10px;
+}
+
+.field-name-field-extra-download a{
+    display: block;
+    background-color: #efece3;
+    border-bottom: 1px solid #d3cbb2;
+    border-top: 1px solid #fff;
+    color: #69635e;
+    padding: 10px;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    font-family: Arial,Helvetica,"Nimbus Sans L",sans-serif;
+    text-decoration: none;
+}
+.field-name-field-extra-download .label-above{
+    font-size: 0.9em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial,Helvetica,"Nimbus Sans L",sans-serif;
+    color: #fff;
+}
+.field-name-field-extra-download {
+    margin-top: 10px;
+}
+.node-tournament .field-name-body {
+    margin:0px;
+}
+.field-name-field-download a{
+    display: block;
+    background-color: #bd2716;
+    border-bottom: 1px solid #78190e;
+    border-top: 1px solid #e84a38;
+    padding: 10px;
+    color: white;
+    font-size: 1.2em;
+    text-decoration: none;
+
 }
