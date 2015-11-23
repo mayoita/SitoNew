@@ -5,9 +5,9 @@
  * Display Suite 2 column stacked template.
  */
 ?>
-<div class="field-name-field-cover-image">
-  <img alt="" src="<?php print file_create_url($field_cover_image['und'][0]['uri']) ?>">
-</div>
+<<?php print $cover_wrapper ?> class="group-cover<?php print $cover_classes; ?>">
+    <?php print $cover; ?>
+
 <<?php print $layout_wrapper; print $layout_attributes; ?> class="ds-2col-stacked <?php print $classes;?> clearfix">
 
   <?php if (isset($title_suffix['contextual_links'])): ?>
@@ -28,12 +28,8 @@
     <?php print $right; ?>
   </<?php print $right_wrapper ?>>
 
-  <<?php print $footer_wrapper ?> class="group-footer<?php print $footer_classes; ?>">
-    <?php print $footer; ?>
-  </<?php print $footer_wrapper ?>>
-
 </<?php print $layout_wrapper ?>>
-
+</<?php print $cover_wrapper ?>>
 <?php if (!empty($drupal_render_children)): ?>
   <?php print $drupal_render_children ?>
 <?php endif; ?>
