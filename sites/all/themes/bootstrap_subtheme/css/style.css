@@ -536,7 +536,7 @@ margin-top: 330px;
 .color-bg a:link {
     color: #ebc444;
 }
-.event_header {
+.event_header, .views-field-nothing_1 {
     background-color: #ebc444;
     color: black;
     height: 40px;
@@ -546,7 +546,7 @@ margin-top: 330px;
     font-size: 14px;
     text-transform: uppercase;
 }
-.tournament-list-block-fields .event_header {
+.tournament-list-block-fields .views-field-nothing_1 {
     background-color: #BD2716;
     color: white;
 }
@@ -564,17 +564,14 @@ margin-top: 330px;
     font-size: 16px;
 }
 .event-list-block-1-fields .views-field-title,.tournament-list-block-fields .views-field-title {
-    position: relative;
-    top:0px;
-    left:20px;
+    margin-top: 20px;
+    margin-left: 20px;
     font-size: 24px;
     font-weight: bold;
 }
 
 .event-list-block-1-fields .views-field-field_preview_text,.tournament-list-block-fields .views-field-field_preview_text {
-    position: relative;
-    top: 55px;
-    left:20px;
+    margin-left: 20px;
     color: rgb(0, 0, 0);
     font-size: 16px;
 }
@@ -593,7 +590,7 @@ margin-top: 330px;
  .event-list-block-1-fields .group-left, .evento-lista .group-right,.tournament-list-block-fields .group-left, .evento-lista .group-right {
      padding: 0px;
  }
- .views-field-field_preview_image_events img {
+ .views-field-field_preview_image_events img,.views-field-field_preview_image img{
      height: 100%;
  }
 
@@ -601,7 +598,7 @@ margin-top: 330px;
      height: 120px;
  }
 
- .views-field-field_from_1, .views-field-field_from_2, .views-field-nothing {
+.views-field-field_from_1,  .views-field-field_from_2, .views-field-nothing {
      display: inline;
      color: rgb(0, 0, 0);
      font-size: 16px;
@@ -610,6 +607,15 @@ margin-top: 330px;
      text-transform: lowercase;
      position: relative;
  }
+.group-right .views-field-field_from {
+    display: inline;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    top: 20px;
+    left:20px;
+    text-transform: lowercase;
+    position: relative;
+}
 
  .node-event-list .event_date, .node-tournament-list .event_date {
      text-transform: none;

@@ -12,7 +12,6 @@
   <?php endif; ?>
 
   <<?php print $left_wrapper ?> class="group-left<?php print $left_classes; ?>">
-<div class="event_header">EVENTO</div>
     <?php print $left; ?>
   </<?php print $left_wrapper ?>>
 

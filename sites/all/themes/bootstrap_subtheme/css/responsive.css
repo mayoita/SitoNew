@@ -72,16 +72,14 @@
         padding-left: 10px;
         padding-right: 10px;
     }
-    #block-views-event-list-block-1 .views-field-title {
+    #block-views-event-list-block-1 .views-field-title, #block-views-tournament-list-block .views-field-title{
         font-size: 18px;
-        left: 15px;
-        top:25px;
-        position: absolute;
+        margin-top: 10px;
+        margin-left: 0px;
     }
-    #block-views-event-list-block-1 .views-field-field_preview_text {
+    #block-views-event-list-block-1 .views-field-field_preview_text, #block-views-tournament-list-block .views-field-field_preview_text{
         font-size: 18px;
-        left: 0px;
-        top:30px;
+        margin-left: 0px;
         font-size: 12px;
 
     }
@@ -90,8 +88,13 @@
         left: 0px;
         top:10px;
     }
-    .event-list-block-1-fields .group-right {
-        height: 85px;
+    #block-views-tournament-list-block .views-field-field_from,#block-views-tournament-list-block .views-field-nothing,#block-views-tournament-list-block .views-field-field_from_1 {
+        font-size: 14px;
+        left: 0px;
+        top:10px;
+    }
+    .event-list-block-1-fields .group-right, .tournament-list-block-fields .group-right{
+        height: 95px;
     }
 }
 @media (max-width: 500px) {
