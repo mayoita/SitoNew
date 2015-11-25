@@ -102,7 +102,22 @@
     <div class="event_banner">
       <div class="event_title"><?php print $title; ?>
       </div>
-      <div class="event_date"<?php print render($content['field_from'])?>
+      <div class="event_date"><?php
+
+        $date_init = strtotime($node->field_from['und']['0']['value']);
+        $date_finish = strtotime($node->field_from['und']['0']['value2']);
+        $day_init=date('d',$date_init);
+        $month_init=date('m',$date_init);
+        $day_finish=date('d',$date_finish);
+        $month_finish=date('m',$date_finish);
+        if (($day_init == $day_finish) && ($month_init == $month_finish)) {
+        print date("d F Y", $date_init);
+        } else {
+        print date("d", $date_init) . '-' . date("d F Y", $date_finish);
+
+        }
+
+        ?></div>
     </div>
     <?php
 

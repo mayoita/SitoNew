@@ -598,7 +598,7 @@ margin-top: 330px;
      height: 120px;
  }
 
-.views-field-field_from_1,  .views-field-field_from_2, .views-field-nothing {
+.views-field-php {
      display: inline;
      color: rgb(0, 0, 0);
      font-size: 16px;
@@ -607,15 +607,6 @@ margin-top: 330px;
      text-transform: lowercase;
      position: relative;
  }
-.group-right .views-field-field_from {
-    display: inline;
-    color: rgb(0, 0, 0);
-    font-size: 16px;
-    top: 20px;
-    left:20px;
-    text-transform: lowercase;
-    position: relative;
-}
 
  .node-event-list .event_date, .node-tournament-list .event_date {
      text-transform: none;
@@ -717,4 +708,28 @@ margin-top: 330px;
 }
 .row.home {
     margin-bottom: 100px;
+}
+/* BREADCRUMBS */
+.breadcrumb>li+li:before {
+    content: "\203A";
+    color: black;
+}
+.breadcrumb {
+    padding: 0px;
+}
+.breadcrumb a{
+    color: #bd2716;
+    font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    font-size: 11px;
+}
+.breadcrumb li{
+    color: black;
+    font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    font-size: 11px;
+}
+.breadcrumb>.active {
+    color: black;
+}
+.breadcrumb .first {
+    margin-left: 625px;
 }
