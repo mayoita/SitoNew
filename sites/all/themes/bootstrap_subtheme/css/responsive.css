@@ -28,6 +28,9 @@
     .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse, .navbar-static-top .navbar-collapse {
         padding-left: 160px;
     }
+    .breadcrumb {
+        padding-left: 390px;
+    }
 
     .container{
         max-width: 970px;
@@ -61,6 +64,9 @@
 @media (max-width: 768px) {
     .navbar {
         height: 60px;
+    }
+    .breadcrumb {
+        padding-left: 20px;
     }
     .node .content{
         margin-top: 165px;

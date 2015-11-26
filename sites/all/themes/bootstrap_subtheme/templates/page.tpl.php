@@ -134,9 +134,9 @@
 
 
     <section<?php print $content_column_class; ?>>
-
+<div id="breadcrumb-wrapper" class="row">
       <?php if (!empty($breadcrumb)): print $breadcrumb; endif;?>
-
+</div>
 
       <?php if (!empty($tabs)): ?>
         <?php print render($tabs); ?>
