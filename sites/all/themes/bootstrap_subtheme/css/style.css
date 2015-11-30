@@ -769,3 +769,21 @@ margin-top: 330px;
     color: #ebc444;
     text-decoration: none;
 }
+#bottom-left a:hover, #bottom-right a:hover {
+    background-color: #172c23;
+}
+.color-bg .box-whitebg a{
+    color: #bd2716;
+    text-decoration: none;
+}
+.color-bg a{
+    color: #ebc444;
+    text-decoration: none;
+}
+#bottom-left-5 {
+    z-index: 1;
+}
+
+.image_bg {
+    background: transparent url("../images/shadow.png") no-repeat scroll center 565px;
+}

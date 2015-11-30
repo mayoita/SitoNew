@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e5a8b7-8015-4020-9516-7039c6c1aedf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565borghesecn_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565vendramin1.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/style.css" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/style.css" />
     </list>
     <ignored path="new.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="766" column="0" selection-start-line="766" selection-start-column="0" selection-end-line="766" selection-end-column="0" />
+              <caret line="776" column="26" selection-start-line="776" selection-start-column="26" selection-end-line="776" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -94,7 +93,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
-              <folding />
+              <folding>
+                <marker date="1448615467000" expanded="true" signature="541:695" placeholder="{...}" />
+                <marker date="1448615467000" expanded="true" signature="1300:1310" placeholder="{...}" />
+                <marker date="1448615467000" expanded="true" signature="1300:2544" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,8 +105,8 @@
       <file leaf-file-name="page.tpl.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4818653">
-              <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.45595855">
+              <caret line="130" column="6" selection-start-line="130" selection-start-column="6" selection-end-line="130" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -798,7 +801,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="98" column="1" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
-          <folding />
+          <folding>
+            <marker date="1448615467000" expanded="true" signature="541:695" placeholder="{...}" />
+            <marker date="1448615467000" expanded="true" signature="1300:1310" placeholder="{...}" />
+            <marker date="1448615467000" expanded="true" signature="1300:2544" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -868,7 +875,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="102" column="24" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
-          <folding />
+          <folding>
+            <marker date="1448615467000" expanded="true" signature="541:695" placeholder="{...}" />
+            <marker date="1448615467000" expanded="true" signature="1300:1310" placeholder="{...}" />
+            <marker date="1448615467000" expanded="true" signature="1300:2544" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -922,7 +933,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="102" column="24" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
-          <folding />
+          <folding>
+            <marker date="1448615467000" expanded="true" signature="541:695" placeholder="{...}" />
+            <marker date="1448615467000" expanded="true" signature="1300:1310" placeholder="{...}" />
+            <marker date="1448615467000" expanded="true" signature="1300:2544" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -961,7 +976,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
-          <folding />
+          <folding>
+            <marker date="1448615467000" expanded="true" signature="541:695" placeholder="{...}" />
+            <marker date="1448615467000" expanded="true" signature="1300:1310" placeholder="{...}" />
+            <marker date="1448615467000" expanded="true" signature="1300:2544" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1070,7 +1089,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
-          <folding />
+          <folding>
+            <marker date="1448615467000" expanded="true" signature="541:695" placeholder="{...}" />
+            <marker date="1448615467000" expanded="true" signature="1300:1310" placeholder="{...}" />
+            <marker date="1448615467000" expanded="true" signature="1300:2544" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1122,14 +1145,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="766" column="0" selection-start-line="766" selection-start-column="0" selection-end-line="766" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page--front.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-28.125">
@@ -1138,10 +1153,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="776" column="26" selection-start-line="776" selection-start-column="26" selection-end-line="776" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4818653">
-          <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.45595855">
+          <caret line="130" column="6" selection-start-line="130" selection-start-column="6" selection-end-line="130" selection-end-column="6" />
           <folding />
         </state>
       </provider>
