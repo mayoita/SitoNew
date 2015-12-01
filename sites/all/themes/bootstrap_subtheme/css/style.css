@@ -527,11 +527,13 @@ margin-top: 330px;
 .image_bg {
     position: absolute;
     z-index: -1;
-    top: 0px;
+    top: 520px;
     left: 0px;
     right: 0px;
     max-width: 1680px;
     margin: 0 auto;
+    background:  url("../images/shadow.png") no-repeat scroll center;
+    height: 100%;
 }
 .color-bg a:link {
     color: #ebc444;
@@ -715,17 +717,23 @@ margin-top: 330px;
     color: black;
 }
 .breadcrumb {
-    padding: 0px;
+
     max-width: 960px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 310px;
+padding-left: 280px;
+    padding-bottom: 0px;
+    padding-top: 5px;
     margin-bottom: 0px;
 }
 .breadcrumb a{
     color: #bd2716;
     font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;
     font-size: 11px;
+
+}
+.breadcrumb a:hover {
+    text-decoration: none;
 }
 .breadcrumb li{
     color: black;
@@ -784,6 +792,3 @@ margin-top: 330px;
     z-index: 1;
 }
 
-.image_bg {
-    background: transparent url("../images/shadow.png") no-repeat scroll center 565px;
-}
