@@ -1,0 +1,4 @@
+name = Casinò di Venezia Custom Variable
+description = Provides custom variables.
+package = Custom Variable
+core = 7.x

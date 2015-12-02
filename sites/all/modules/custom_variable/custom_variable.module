@@ -1,0 +1,15 @@
+<?php
+function custom_variable_settings(){
+
+}
+//Implementation of hook init()
+function custom_variable_init() {
+  drupal_add_js(
+    array(
+      'custom_variable' => array(
+        'apikey' => 'test',
+      )
+    ),
+    'setting'
+  );
+}

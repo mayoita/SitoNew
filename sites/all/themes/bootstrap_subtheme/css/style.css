@@ -795,7 +795,3 @@ padding-left: 280px;
 #bottom-left-5 {
     z-index: 1;
 }
-
-.image_bg {
-    background: transparent url("../images/shadow.png") no-repeat scroll center 565px;
-}
