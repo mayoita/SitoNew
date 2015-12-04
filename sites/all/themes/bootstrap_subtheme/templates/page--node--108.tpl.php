@@ -124,10 +124,10 @@
 
 <div class="main-container container-fluid event">
 
-
+<div id="map_canvas"></div>
 
   <div class="row home">
-    <div class="image_bg map_canvas">
+    <div class="image_bg">
 
     </div>
 

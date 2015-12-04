@@ -51,27 +51,24 @@
     Drupal.behaviors.loadElaboMap = {
         attach: function (context, settings) {
 
-            var apikey = Drupal.settings.custom_variable.apikey;
-            console.log(apikey);
-            alert(apikey);
 
             // Load settings
-            var lat_center = Drupal.settings.rsv_casino_map.latitude;
-            var lon_center = Drupal.settings.rsv_casino_map.longitude;
-            var zoomlevel =  Drupal.settings.rsv_casino_map.zoom;
+            var lat_center = Drupal.settings.custom_variable.latitude;
+            var lon_center = Drupal.settings.custom_variable.longitude;
+            var zoomlevel =  Drupal.settings.custom_variable.zoom;
 
-            var lat_a = Drupal.settings.rsv_casino_map.latitude_a;
-            var lon_a = Drupal.settings.rsv_casino_map.longitude_a;
+            var lat_a = Drupal.settings.custom_variable.latitude_a;
+            var lon_a = Drupal.settings.custom_variable.longitude_a;
 
-            var lat_b = Drupal.settings.rsv_casino_map.latitude_b;
-            var lon_b = Drupal.settings.rsv_casino_map.longitude_b;
+            var lat_b = Drupal.settings.custom_variable.latitude_b;
+            var lon_b = Drupal.settings.custom_variable.longitude_b;
 
-            var icons_path = Drupal.settings.rsv_casino_map.icons_path;
-            var icon_a = Drupal.settings.rsv_casino_map.icon_a;
-            var icon_b = Drupal.settings.rsv_casino_map.icon_b;
+            var icons_path = Drupal.settings.custom_variable.icons_path;
+            var icon_a = Drupal.settings.custom_variable.icon_a;
+            var icon_b = Drupal.settings.custom_variable.icon_b;
 
-            var name_a = Drupal.settings.rsv_casino_map.name_a;
-            var name_b = Drupal.settings.rsv_casino_map.name_b;
+            var name_a = Drupal.settings.custom_variable.name_a;
+            var name_b = Drupal.settings.custom_variable.name_b;
 
             var markers =  [
                 [name_a, lat_a, lon_a, icon_a],

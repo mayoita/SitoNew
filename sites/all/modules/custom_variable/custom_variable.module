@@ -7,7 +7,18 @@ function custom_variable_init() {
   drupal_add_js(
     array(
       'custom_variable' => array(
-        'apikey' => 'test',
+        'latitude' => '45.4815725',
+          'longitude' => '12.343886',
+          'zoom' => 12,
+          'latitude_a' => '45.4426',
+          'longitude_a' => '12.329666',
+          'latitude_b' => '45.520545',
+          'longitude_b' => '12.358106',
+          'icons_path' => '../sites/default/files/',
+          'icon_a' => 'marker1.png',
+          'icon_b' => 'marker2.png',
+          'name_a' => '<a href="/it/informazioni.html#vendramin">Ca&#039; Vendramin</a>',
+          'name_b' => '<a href="/it/informazioni.html#noghera">Ca&#039; Noghera</a>',
       )
     ),
     'setting'

@@ -794,4 +794,10 @@ padding-left: 280px;
 }
 #bottom-left-5 {
     z-index: 1;
+
+}
+#map_canvas {
+    height: 565px;
+    width: 100%;
+    color: black;
 }
