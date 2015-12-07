@@ -800,4 +800,9 @@ padding-left: 280px;
     height: 565px;
     width: 100%;
     color: black;
+    z-index: -1;
+}
+
+.node-basic-page-dove-siamo .content {
+    margin-top: -50px;
 }
