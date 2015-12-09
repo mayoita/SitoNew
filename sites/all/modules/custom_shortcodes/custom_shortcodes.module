@@ -20,7 +20,12 @@ function custom_shortcodes_shortcode_info() {
         'process callback' => 'custom_shortcodes_shortcode_box_toggle', // Custom function that deals with the variables and html output
         'tips callback' => 'custom_shortcodes_shortcode_box_toggle_tip' // Custom function that displays some help text to the user
     );
-
+    $shortcodes['title-with-arrow'] = array(
+        'title' => t('Title with arrow'),  // The title of this shortcode, displayed in the Drupal backend for administrators to enable/disable shortcodes for input types
+        'description' => t('Add a title with arrow.'),  // Description shown along with the title in the Drupal backend
+        'process callback' => 'custom_shortcodes_shortcode_title_with_arrow', // Custom function that deals with the variables and html output
+        'tips callback' => 'custom_shortcodes_shortcode_title_with_arrow_tip' // Custom function that displays some help text to the user
+    );
     // $shortcodes['second_shortcode'] = array();
     // $shortcodes['third_shortcode'] = array();
     // and so on...
@@ -39,9 +44,9 @@ function custom_shortcodes_theme() {
         'shortcode_box_toggle' => array(
             'variables' => array('title' => 'Title'),
         ),
-        // 'second_shortcode' => array(),
-        // 'third_shortcode' => array(),
-        // and so on...
+        'shortcode_title_with_arrow' => array(
+            'variables' => array('title' => 'Title'),
+        ),
     );
 }
 /**
@@ -73,7 +78,15 @@ function custom_shortcodes_shortcode_box_toggle($attrs, $text) {
     return theme('shortcode_box_toggle', array('title' => $attrs['title'],'text' => $text));
 }
 
+function custom_shortcodes_shortcode_title_with_arrow($attrs, $text) {
+    $attrs = shortcode_attrs(array(
+        'title' => $text
+    ),
+        $attrs
+    );
 
+    return theme('shortcode_title_with_arrow', array('title' => $attrs['title'],'text' => $text));
+}
 /**
  * This function uses the attributes passed in to return the HTML of this shortcode.
  */
@@ -84,6 +97,10 @@ function theme_shortcode_box_colorbg($vars) {
 }
 function theme_shortcode_box_toggle($vars) {
     return '<div class="box-expandable"><h3 class="box-toggle">' . $vars['title'] . '</h3><div class="box-content box-content-collapsed">' . $vars['text'] . '</div></div>';
+
+}
+function theme_shortcode_title_with_arrow($vars) {
+    return '<div class="title-with-arrow-wrapper"><div class="title-with-arrow">' . $vars['title'] . '</div></div>';
 
 }
 /**

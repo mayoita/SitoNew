@@ -127,9 +127,7 @@
 
 
   <div class="row home">
-    <div class="image_bg">
-
-    </div>
+    <div class="image_bg"></div>
 
 
 
@@ -157,6 +155,7 @@
     <?php endif; ?>
 
   </div>
+
 </div>
 <div class="row row-bottom">
   <div id="bottom-top" class="column-wide">

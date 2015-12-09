@@ -58,8 +58,12 @@
   <![endif]-->
   <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
   <?php print $scripts; ?>
-
-
+<?php
+$node = menu_get_object();
+if ($node->type == "basic_page_dove_siamo") {
+  echo '<script src="http://sitonew.dd:8083/' . drupal_get_path('theme', 'bootstrap_subtheme') . '/js/map.js"></script>';
+  }
+?>
 </head>
 <body class="<?php print $classes; ?>" <?php print $attributes;?>>
 

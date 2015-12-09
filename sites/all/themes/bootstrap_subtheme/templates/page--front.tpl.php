@@ -131,6 +131,7 @@
       </div>
   </div>
   <div class="row home">
+    <div class="image_bg"></div>
 
     <?php if (!empty($page['sidebar_first'])): ?>
       <aside class="col-sm-3" role="complementary">

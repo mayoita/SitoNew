@@ -535,7 +535,7 @@ margin-top: 330px;
     max-width: 1680px;
     margin: 0 auto;
     background:  url("../images/shadow.png") no-repeat scroll center;
-    height: 100%;
+    height: 565px;
 }
 .color-bg a:link {
     color: #ebc444;
@@ -711,7 +711,7 @@ margin-top: 330px;
     margin-top: 330px;
 }
 .row.home {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 /* BREADCRUMBS */
 .breadcrumb>li+li:before {
@@ -805,4 +805,27 @@ padding-left: 280px;
 
 .node-basic-page-dove-siamo .content {
     margin-top: -50px;
+}
+.field-name-body a:link, .field-name-body a:visited, .field-name-body a:hover, .field-name-body a:focus, .field-name-body a:active {
+    color: #ebc444;
+}
+.title-with-arrow-wrapper {
+    clear: both;
+    overflow: hidden;
+}
+.title-with-arrow {
+    color: #bd2716;
+    text-transform: uppercase;
+}
+.field-name-body .box-whitebg a:link, .field-name-body .box-whitebg a:visited, .field-name-body .box-whitebg a:hover, .field-name-body .box-whitebg a:focus, .field-name-body .box-whitebg a:active {
+    color: #bd2716;
+}
+.title-with-arrow a {
+    padding-right: 40px;
+    line-height: 32px;
+    min-height: 32px;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    background: url(/sites/all/themes/bootstrap_subtheme/images/button-circle-red-small.png) right center no-repeat;
 }
