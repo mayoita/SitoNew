@@ -829,3 +829,126 @@ padding-left: 280px;
     font-weight: bold;
     background: url(/sites/all/themes/bootstrap_subtheme/images/button-circle-red-small.png) right center no-repeat;
 }
+.view-id-game_types {
+    margin-left: 10px;
+}
+.view-id-game_types .views-row {
+    height: 300px;
+    width: 940px;
+    margin-bottom: 40px;
+}
+.view-id-game_types .views-row .game-type-content {
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    float: left;
+    background: url(/sites/all/themes/bootstrap_subtheme/images/intro.png) 0 0 repeat;
+    position: relative;
+}
+.view-id-game_types .views-row .game-type-content h2.title {
+    background: #bd2716;
+    margin: 0;
+    padding: 0 0 0 20px;
+    line-height: 2em;
+}
+.view-id-game_types .views-row .game-type-content .text {
+    position: absolute;
+    padding: 20px;
+    color: #69635e;
+}
+.view-id-game_types .views-row .views-field-field-preview-slideshow {
+    width: 640px;
+    height: 300px;
+    float: right;
+}
+.view-id-game_types .views-row .views-field-field-preview-slideshow ul {
+    padding: 0;
+    margin: 0;
+}
+.view-id-game_types .views-row .views-field-field-preview-slideshow ul li {
+    padding: 0;
+    margin: 0;
+    height: 300px;
+    list-style: none outside none;
+    overflow: hidden;
+}
+.view-id-game_types .flexslider .slides img {
+    width: 100%;
+    display: block;
+}
+.view-id-game_types .views-row .game-type-content h2.title a {
+    color: white;
+}
+a:link {
+    text-decoration: none;
+}
+.node-giochi .event_date {
+    text-transform: none;
+}
+.node-giochi .field-name-body{
+    margin-left: 0px;
+}
+.node-giochi-ai-tavoli .event_date {
+    text-transform: none;
+}
+.node-giochi-ai-tavoli .field-name-body{
+    margin-left: 0px;
+}
+.node-giochi-ai-tavoli a:hover, a:focus {
+    color: #bd2716;
+}
+.node-giochi-ai-tavoli a:visited {
+    color: #bd2716;
+}
+.node-giochi-ai-tavoli .field-name-body a:link {
+    color: #bd2716;
+}
+.node-giochi-ai-tavoli .views-row {
+    width: 50%;
+    float: left;
+    overflow: hidden;
+    margin-bottom: 4px;
+    position: relative;
+}
+.node-giochi-ai-tavoli .views-row-odd .views-field {
+    margin-right: 2px;
+}
+.node-giochi-ai-tavoli .views-field-field-preview-image {
+    line-height: 0;
+    font-size: 0;
+}
+.node-giochi-ai-tavoli .views-field-field-preview-image a, .view-display-id-games .views-field-field-preview-image img {
+    line-height: 0;
+    font-size: 0;
+}
+
+.node-giochi-ai-tavoli .views-field-title {
+    background-color: #efece3;
+    background-image: url(/sites/all/themes/bootstrap_subtheme/images/game-arrow.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+.view-display-id-games .views-field-title h2 {
+    margin: 0;
+}
+.node-giochi-ai-tavoli .views-field-title a {
+    display: block;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 10px;
+    color: #69635e;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.node-giochi-ai-tavoli .text-preview-wrapper {
+    position: absolute;
+    background: black;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    top: 0;
+    cursor: pointer;
+}
+.node-giochi-ai-tavoli .text-preview {
+    padding: 20px;
+    cursor: pointer;
+}

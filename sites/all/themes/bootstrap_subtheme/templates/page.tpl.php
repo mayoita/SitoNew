@@ -155,7 +155,6 @@
     <?php endif; ?>
 
   </div>
-
 </div>
 <div class="row row-bottom">
   <div id="bottom-top" class="column-wide">

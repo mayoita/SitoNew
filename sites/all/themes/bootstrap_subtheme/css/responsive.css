@@ -102,6 +102,10 @@
     .event-list-block-1-fields .group-right, .tournament-list-block-fields .group-right{
         height: 95px;
     }
+    .views-field-php{
+        left: 0px;
+        top:12px;
+    }
 }
 @media (max-width: 500px) {
     .event_title {
@@ -239,5 +243,30 @@ font-size: 12px;
 @media (max-width: 1225px) {
     .break {
         display: block;
+    }
+}
+@media screen and (max-width: 959px) {
+    .view-id-game_types .views-row .views-field-nothing .game-type-content {
+        width: 100%;
+        height: 260px;
+    }
+    .view-id-game_types .views-row .views-field-nothing {
+        width: 100%;
+    }
+    .view-id-game_types .views-row {
+        width: 100%;
+        margin-bottom: 20px;
+        overflow: hidden;
+        height: auto;
+    }
+    .view-id-game_types .views-row .views-field-field-preview-slideshow {
+        width: 100%;
+        height: auto;
+    }
+    .view-id-game_types .views-row .views-field-field-preview-slideshow ul li {
+        height: auto;
+    }
+    .view-id-game_types {
+        padding-right: 10px;
     }
 }
