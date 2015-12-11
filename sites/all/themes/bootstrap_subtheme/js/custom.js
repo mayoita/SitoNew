@@ -38,6 +38,31 @@
                 $(this).next().addClass('box-content-collapsed')
             }
         });
+        /*
+         * Game preview
+         */
+        $('.node-giochi-ai-tavoli .views-row').hover(function(){
+            imageHeight = $(this).find('img').height();
+            $(this).find('.text-preview-wrapper').height(imageHeight);
+            $(this).find('.text-preview-wrapper').fadeIn();
+        }, function(){
+            $(this).find('.text-preview-wrapper').fadeOut();
+        })
+        $('.text-preview-wrapper').click(function(){
+            window.location=$(this).parent().find('.views-field-title').find('a').attr('href');
+            return false;
+        });
+        $('.text-preview').click(function(){
+            window.location=$(this).parent().parent().find('.views-field-title').find('a').attr('href');
+            return false;
+        });
+
+
+        $('.view-display-id-highlights .views-field-nothing').hover(function(){
+            $('.bx-viewport').css( "zIndex", 999 );
+        }, function(){
+            $('.bx-viewport').css( "zIndex", 0 );
+        });
 
 
     });

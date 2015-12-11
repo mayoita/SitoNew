@@ -43,6 +43,7 @@ body {
 }
 img {
     width: 100%;
+    height: auto;
 }
 p {
     font-family: "Lusitana",serif;
@@ -920,6 +921,7 @@ a:link {
 .node-giochi-ai-tavoli .views-field-field-preview-image a, .view-display-id-games .views-field-field-preview-image img {
     line-height: 0;
     font-size: 0;
+
 }
 
 .node-giochi-ai-tavoli .views-field-title {
@@ -951,4 +953,15 @@ a:link {
 .node-giochi-ai-tavoli .text-preview {
     padding: 20px;
     cursor: pointer;
+}
+
+.node-giochi-ai-tavoli h2 {
+    margin-top: 0px;
+}
+.node-giochi-ai-tavoli .view-content {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.node-giochi-ai-tavoli a img {
+    max-height: 200px;
 }

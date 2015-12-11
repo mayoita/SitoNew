@@ -46,6 +46,9 @@
         margin-right: 68px;
 
     }
+    .node-giochi-ai-tavoli .views-field-title {
+        margin-right: 0px;
+    }
     .views-field-field-introduction {
         font-size: 12px;
         position: absolute;

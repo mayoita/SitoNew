@@ -29,8 +29,8 @@ function bootstrap_menu_link(array $variables) {
 
       // Set dropdown trigger element to # to prevent inadvertant page loading
       // when a submenu link is clicked.
-      $element['#localized_options']['attributes']['data-target'] = '#';
-      $element['#localized_options']['attributes']['class'][] = 'dropdown-toggle';
+     // $element['#localized_options']['attributes']['data-target'] = '#';
+     // $element['#localized_options']['attributes']['class'][] = 'dropdown-toggle'; //http://jeromejaglale.com/doc/drupal7/bootstrap_menu_dropdown_over
      // $element['#localized_options']['attributes']['data-toggle'] = 'dropdown';
     }
   }
