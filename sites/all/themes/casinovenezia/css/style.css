@@ -828,7 +828,7 @@ padding-left: 280px;
     float: left;
     font-size: 20px;
     font-weight: bold;
-    background: url(/sites/all/themes/bootstrap_subtheme/images/button-circle-red-small.png) right center no-repeat;
+    background: url(/sites/all/themes/casinovenezia/images/button-circle-red-small.png) right center no-repeat;
 }
 .view-id-game_types {
     margin-left: 10px;
@@ -843,7 +843,7 @@ padding-left: 280px;
     height: 300px;
     overflow: hidden;
     float: left;
-    background: url(/sites/all/themes/bootstrap_subtheme/images/intro.png) 0 0 repeat;
+    background: url(/sites/all/themes/casinovenezia/images/intro.png) 0 0 repeat;
     position: relative;
 }
 .view-id-game_types .views-row .game-type-content h2.title {
@@ -926,7 +926,7 @@ a:link {
 
 .node-giochi-ai-tavoli .views-field-title {
     background-color: #efece3;
-    background-image: url(/sites/all/themes/bootstrap_subtheme/images/game-arrow.png);
+    background-image: url(/sites/all/themes/casinovenezia/images/game-arrow.png);
     background-position: center right;
     background-repeat: no-repeat;
 }

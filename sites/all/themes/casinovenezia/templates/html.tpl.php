@@ -61,7 +61,7 @@
 <?php
 $node = menu_get_object();
 if ($node->type == "basic_page_dove_siamo") {
-  echo '<script src="http://sitonew.dd:8083/' . drupal_get_path('theme', 'bootstrap_subtheme') . '/js/map.js"></script>';
+  echo '<script src="http://sitonew.dd:8083/' . drupal_get_path('theme', 'casinovenezia') . '/js/map.js"></script>';
   }
 ?>
 </head>
