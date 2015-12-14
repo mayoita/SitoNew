@@ -613,7 +613,7 @@ margin-top: 330px;
      position: relative;
  }
 
- .node-event-list .event_date, .node-tournament-list .event_date {
+ .node-event-list .event_date, .node-tournament-list .event_date,.node-game .event_date {
      text-transform: none;
  }
 .node-event-list .field-name-body,.node-tournament-list .field-name-body {
@@ -964,4 +964,57 @@ a:link {
 }
 .node-giochi-ai-tavoli a img {
     max-height: 200px;
+}
+
+.game_download {
+    background-color: #efece3;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    color: #69635e;
+}
+.game_download a{
+    color: #bd2716;
+    text-decoration: none;
+}
+
+.node-game img {
+    width: 100%;
+    height: auto;
+}
+#elenco-regole {
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+    background: url(/sites/all/themes/casinovenezia/images/game-expand.png) right 11px no-repeat;
+    background-color: #bd2716;
+    color: white;
+    font-size: 1.1em;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    overflow: hidden;
+    -webkit-transition: height 0.3s;
+    -moz-transition: height 0.3s;
+    -o-transition: height 0.3s;
+    transition: height 0.3s;
+}
+.regola {
+    padding: 0 40px 0 20px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 18px;
+}
+#regole {
+    position: relative;
+}
+#elenco-descrizioni {
+    padding-top: 60px;
+    margin: 20px 0 40px 0;
+}
+#regole .descrizione {
+    background-color: #efece3;
+    padding: 20px;
+    color: #69635e;
+    display: none;
 }

@@ -2,86 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e5a8b7-8015-4020-9516-7039c6c1aedf" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/README.txt" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/README.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/affix.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/affix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/alert.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/alert.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/button.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/button.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/carousel.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/carousel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/collapse.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/collapse.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/dropdown.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/dropdown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/jquery.smartmenus.bootstrap.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/jquery.smartmenus.bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/jquery.smartmenus.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/jquery.smartmenus.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/modal.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/modal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/npm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/popover.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/popover.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/scrollspy.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/scrollspy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/tab.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/tab.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/tooltip.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/tooltip.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap/js/transition.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/bootstrap/js/transition.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/bootstrap_subtheme.info" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/casinovenezia.info" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/README.txt" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/README.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/jcarousel.responsive.css" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/jcarousel.responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/responsive.css" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/style.css" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/ds_layouts/custom_ds/custom_ds.css" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/ds_layouts/custom_ds/custom_ds.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/ds_layouts/custom_ds/custom_ds.inc" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/ds_layouts/custom_ds/custom_ds.inc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/ds_layouts/custom_ds/custom_ds.png" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/ds_layouts/custom_ds/custom_ds.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/ds_layouts/custom_ds/custom_ds.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/ds_layouts/custom_ds/custom_ds.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/favicon.ico" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/images/accordion-arrow.png" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/images/accordion-arrow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/images/button-circle-red-small.png" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/images/button-circle-red-small.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/images/casinoonline_it.png" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/images/casinoonline_it.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/images/game-arrow.png" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/images/game-arrow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/images/intro.png" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/images/intro.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/images/jackpot-arrow.png" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/images/jackpot-arrow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/images/logo.png" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/images/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/images/page-wrapper.png" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/images/page-wrapper.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/images/shadow.png" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/images/shadow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/js/custom.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/js/jcarousel.responsive.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/jcarousel.responsive.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/js/jquery.jcarousel.min.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/jquery.jcarousel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/js/map.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/map.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/less/README.txt" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/less/README.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/less/bootstrap.less" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/less/bootstrap.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/less/content.less" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/less/content.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/less/footer.less" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/less/footer.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/less/header.less" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/less/header.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/less/overrides.less" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/less/overrides.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/less/style.less" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/less/style.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/less/variables.less" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/logo.png" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/screenshot.png" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/screenshot.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/template.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/template.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/README.txt" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/README.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/block.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/block.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/ds-2col.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/ds-2col.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/html.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/node--basic_page_dove_siamo.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--basic_page_dove_siamo.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/node--bootstrap_carousel.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--bootstrap_carousel.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/node--event_list.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--event_list.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/node--events.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--events.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/node--giochi.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/node--giochi_ai_tavoli.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi_ai_tavoli.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/node--page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--page.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/node--tournament_list.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--tournament_list.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page--front.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--front.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page--tournament.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--tournament.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/views-view--highlight-view--block.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/views-view--highlight-view--block.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/views-view-unformatted--event-list--page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/views-view-unformatted--event-list--page.tpl.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/theme/menu/menu-link.func.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/theme/menu/menu-link.func.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--112.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/r_francese.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="new.iws" />
@@ -116,8 +40,28 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.148149">
-              <caret line="931" column="1" selection-start-line="931" selection-start-column="1" selection-end-line="931" selection-end-column="1" />
+            <state vertical-scroll-proportion="-4.9259257">
+              <caret line="989" column="30" selection-start-line="989" selection-start-column="30" selection-end-line="989" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_variable.info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_variable.module" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.25">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -133,6 +77,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="r_francese.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/r_francese.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="198" column="11" selection-start-line="198" selection-start-column="11" selection-end-line="198" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#46#0" expanded="false" />
+                <marker date="1450106207000" expanded="true" signature="1489:1744" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="node--page.tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -143,21 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html.tpl.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="html.tpl.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.375">
-              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.86587435">
+              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -173,47 +120,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu-link.func.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/theme/menu/menu-link.func.php">
+      <file leaf-file-name="node--112.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--112.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.125">
-              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/responsive.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jcarousel.responsive.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/jcarousel.responsive.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state vertical-scroll-proportion="-5.0784316">
+              <caret line="123" column="85" selection-start-line="123" selection-start-column="85" selection-end-line="123" selection-end-column="85" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -260,6 +194,10 @@
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/html.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/style.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/casinovenezia.info" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--112.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/r_francese.js" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php" />
       </list>
     </option>
   </component>
@@ -555,6 +493,54 @@
               <option name="myItemId" value="all" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SitoNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom_variable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SitoNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -571,6 +557,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates" />
       <recent name="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates" />
       <recent name="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/ds_layouts/custom_ds" />
       <recent name="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css" />
@@ -632,7 +619,7 @@
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32932934" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998997" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.023632681" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -668,21 +655,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="102" column="24" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -874,20 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09917355">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.647059">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--basic_page_dove_siamo.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1006,34 +964,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.148149">
-          <caret line="931" column="1" selection-start-line="931" selection-start-column="1" selection-end-line="931" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.375">
-          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1048,8 +982,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/template.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--112.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0784316">
+          <caret line="123" column="85" selection-start-line="123" selection-start-column="85" selection-end-line="123" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.9259257">
+          <caret line="989" column="30" selection-start-line="989" selection-start-column="30" selection-end-line="989" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.25">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/map.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/r_francese.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="198" column="11" selection-start-line="198" selection-start-column="11" selection-end-line="198" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+            <marker date="1450106207000" expanded="true" signature="1489:1744" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.86587435">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>
