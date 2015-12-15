@@ -5,7 +5,8 @@
     Drupal.behaviors.loadCasinoGamesRegolo = {
         attach: function (context, settings) {
 
-            var stringTitle = Drupal.settings.rsv_casino_games.stringTitle+": € ";
+            var stringTitle = Drupal.settings.custom_variable.stringTitle+": € ";
+
 
             // Vettore che contiene le possibili puntate
             var elencoPuntate = new Array(
@@ -86,7 +87,7 @@
 
 
             // Quando modifico la puntata aggiorno i risultati
-            $('#selezione-puntata').live("change", function(){
+            $('#selezione-puntata').on("change", function(){
 
                 if (parseInt($(this).val()) > 100){
                     $('#risultato-pieno').html("<span class='label'>Pieno:</span><span class=\"value\">  --- </span>");
@@ -142,8 +143,8 @@
         attach: function (context, settings) {
 
 
-            var elencoRegole = Drupal.settings.rsv_casino_games.elencoRegole;
-            var elencoDescrizioni = Drupal.settings.rsv_casino_games.elencoDescrizioni;
+            var elencoRegole = Drupal.settings.custom_variable.elencoRegole;
+            var elencoDescrizioni = Drupal.settings.custom_variable.elencoDescrizioni;
 
 //       console.log(elencoRegole);
 //       console.log(elencoDescrizioni);
@@ -170,7 +171,7 @@
 
             $('.field-name-field-body-two').after('<div id="regole">'+htmlRegole+htmlDescrizioni+'</div>');
 
-            $('.regola').live({
+            $('.regola').on({
                 mouseenter: function () {
                     $('#regola-0').html(elencoRegole[0]);
                     $('#regole').addClass('regole-hover');
@@ -182,7 +183,7 @@
                     $(this).removeClass('regola-hover');
                 }
             });
-            $('.regola').live('click', function(){
+            $('.regola').on('click', function(){
                 $('.descrizione').removeClass('descrizione-active');
 //         console.log($(this).attr('id').substring(7));
                 $('#descrizione-'+$(this).attr('id').substring(7)).addClass('descrizione-active');

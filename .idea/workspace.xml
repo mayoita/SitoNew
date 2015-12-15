@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e5a8b7-8015-4020-9516-7039c6c1aedf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--112.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/r_francese.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--112.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.module" afterPath="$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/r_francese.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/r_francese.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -40,8 +40,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.9259257">
-              <caret line="989" column="30" selection-start-line="989" selection-start-column="30" selection-end-line="989" selection-end-column="30" />
+            <state vertical-scroll-proportion="-24.148148">
+              <caret line="1030" column="18" selection-start-line="1030" selection-start-column="18" selection-end-line="1030" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -60,8 +60,8 @@
       <file leaf-file-name="custom_variable.module" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.25">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.6470587">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -71,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/map.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="6" column="60" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -81,10 +81,10 @@
         <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/r_francese.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="198" column="11" selection-start-line="198" selection-start-column="11" selection-end-line="198" selection-end-column="11" />
+              <caret line="175" column="57" selection-start-line="175" selection-start-column="57" selection-end-line="175" selection-end-column="57" />
               <folding>
                 <element signature="e#0#46#0" expanded="false" />
-                <marker date="1450106207000" expanded="true" signature="1489:1744" placeholder="..." />
+                <marker date="1450185305000" expanded="true" signature="1489:1744" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -100,41 +100,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html.tpl.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="html.tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.86587435">
+            <state vertical-scroll-proportion="-10.0">
               <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="casinovenezia.info" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/casinovenezia.info">
+      <file leaf-file-name="node--game.tpl.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="node--112.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--112.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0784316">
-              <caret line="123" column="85" selection-start-line="123" selection-start-column="85" selection-end-line="123" selection-end-column="85" />
+            <state vertical-scroll-proportion="0.54854983">
+              <caret line="107" column="3" selection-start-line="107" selection-start-column="3" selection-end-line="107" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -177,7 +157,6 @@
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page--dove-siamo.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.info" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page--node--108.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.module" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/node--basic_page_dove_siamo.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/js/map.js" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page--front.tpl.php" />
@@ -194,10 +173,12 @@
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/html.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/style.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/casinovenezia.info" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.module" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/r_francese.js" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--112.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css" />
-        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/r_francese.js" />
-        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game.tpl.php" />
       </list>
     </option>
   </component>
@@ -214,10 +195,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1268" />
-    <option name="y" value="149" />
-    <option name="width" value="1523" />
-    <option name="height" value="1089" />
+    <option name="x" value="1318" />
+    <option name="y" value="125" />
+    <option name="width" value="1263" />
+    <option name="height" value="1161" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -614,16 +595,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1268" y="149" width="1523" height="1089" extended-state="0" />
+    <frame x="1318" y="125" width="1263" height="1161" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998997" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.023632681" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18428437" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.028665029" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22147198" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26863226" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.045045044" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -974,7 +955,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/casinovenezia.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-0.871875">
           <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
           <folding />
         </state>
@@ -982,24 +963,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75">
+        <state vertical-scroll-proportion="0.14610389">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--112.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0784316">
-          <caret line="123" column="85" selection-start-line="123" selection-start-column="85" selection-end-line="123" selection-end-column="85" />
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/map.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.9259257">
-          <caret line="989" column="30" selection-start-line="989" selection-start-column="30" selection-end-line="989" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="60" />
           <folding />
         </state>
       </provider>
@@ -1014,16 +995,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.25">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.6470587">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -1031,18 +1004,26 @@
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/r_francese.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="198" column="11" selection-start-line="198" selection-start-column="11" selection-end-line="198" selection-end-column="11" />
+          <caret line="175" column="57" selection-start-line="175" selection-start-column="57" selection-end-line="175" selection-end-column="57" />
           <folding>
             <element signature="e#0#46#0" expanded="false" />
-            <marker date="1450106207000" expanded="true" signature="1489:1744" placeholder="..." />
+            <marker date="1450185305000" expanded="true" signature="1489:1744" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.86587435">
-          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        <state vertical-scroll-proportion="-24.148148">
+          <caret line="1030" column="18" selection-start-line="1030" selection-start-column="18" selection-end-line="1030" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54854983">
+          <caret line="107" column="3" selection-start-line="107" selection-start-column="3" selection-end-line="107" selection-end-column="3" />
           <folding />
         </state>
       </provider>
