@@ -103,7 +103,9 @@
       <div class="event_title"><?php print $title; ?>
       </div>
       <div class="event_date"<?php print render($content['field_introduction_events'])?>
+      <?php if ($content['field_download']): ?>
       <div class="game_download"<?php print render($content['field_download'])?>
+      <?php endif; ?>
     </div>
    
     <?php
