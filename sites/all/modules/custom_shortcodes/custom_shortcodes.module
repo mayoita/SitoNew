@@ -26,6 +26,12 @@ function custom_shortcodes_shortcode_info() {
         'process callback' => 'custom_shortcodes_shortcode_title_with_arrow', // Custom function that deals with the variables and html output
         'tips callback' => 'custom_shortcodes_shortcode_title_with_arrow_tip' // Custom function that displays some help text to the user
     );
+    $shortcodes['cols-wrapper'] = array(
+        'title' => t('Cols wrapper'),  // The title of this shortcode, displayed in the Drupal backend for administrators to enable/disable shortcodes for input types
+        'description' => t('Add a cols.'),  // Description shown along with the title in the Drupal backend
+        'process callback' => 'custom_shortcodes_shortcode_cols_wrapper', // Custom function that deals with the variables and html output
+        'tips callback' => 'custom_shortcodes_shortcode_cols_wrapper_tip' // Custom function that displays some help text to the user
+    );
     // $shortcodes['second_shortcode'] = array();
     // $shortcodes['third_shortcode'] = array();
     // and so on...
@@ -45,6 +51,9 @@ function custom_shortcodes_theme() {
             'variables' => array('title' => 'Title'),
         ),
         'shortcode_title_with_arrow' => array(
+            'variables' => array('title' => 'Title'),
+        ),
+        'shortcode_cols_wrapper' => array(
             'variables' => array('title' => 'Title'),
         ),
     );
@@ -87,6 +96,16 @@ function custom_shortcodes_shortcode_title_with_arrow($attrs, $text) {
 
     return theme('shortcode_title_with_arrow', array('title' => $attrs['title'],'text' => $text));
 }
+
+function custom_shortcodes_shortcode_cols_wrapper($attrs, $text) {
+    $attrs = shortcode_attrs(array(
+        'title' => $text
+    ),
+        $attrs
+    );
+
+    return theme('shortcodes_shortcode_cols_wrapper', array('title' => $attrs['title'],'text' => $text));
+}
 /**
  * This function uses the attributes passed in to return the HTML of this shortcode.
  */
@@ -101,6 +120,10 @@ function theme_shortcode_box_toggle($vars) {
 }
 function theme_shortcode_title_with_arrow($vars) {
     return '<div class="title-with-arrow-wrapper"><div class="title-with-arrow">' . $vars['title'] . '</div></div>';
+
+}
+function theme_shortcodes_shortcode_cols_wrapper($vars) {
+    return '<div class="columns-wrapper"></div>';
 
 }
 /**

@@ -30,7 +30,9 @@
     <?php foreach ($carousel_items as $id => $carousel_slide) : ?>
       <div class="item<?php ($id == '0') ? print ' active' : print ''; ?>">
         <?php if(!empty($carousel_slide['carousel_image'])) : ?>
-          <?php $img_url = file_create_url(file_load($carousel_slide['carousel_image'])->uri); ?>
+          <?php
+              $img_url = image_style_url('overlay',file_load($carousel_slide['carousel_image'])->uri);
+          ?>
           <img src="<?php print $img_url ?>" alt="<?php print $carousel_slide['image_alt_text'];?>"/>
         <?php endif; ?>
 

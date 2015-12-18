@@ -479,6 +479,9 @@ margin-top: 330px;
     text-transform: lowercase;
     font-size: 16px;
 }
+.event_date a{
+    color: #bd2716;
+}
 .field-name-field-cover-image {
     position: absolute;
     z-index: -1;
@@ -529,7 +532,7 @@ margin-top: 330px;
     position: absolute;
     z-index: -1;
 
-    top: 520px;
+    top: 685px;
 
     left: 0px;
     right: 0px;
@@ -613,7 +616,7 @@ margin-top: 330px;
      position: relative;
  }
 
- .node-event-list .event_date, .node-tournament-list .event_date,.node-game .event_date {
+ .node-event-list .event_date, .node-tournament-list .event_date,.node-game .event_date,.node-game-section .event_date {
      text-transform: none;
  }
 .node-event-list .field-name-body,.node-tournament-list .field-name-body {
@@ -757,6 +760,7 @@ padding-left: 280px;
 .bx-viewport {
     border-color: transparent!important;
     background-color: transparent!important;
+    left:0px!important;
 }
 .bx-wrapper .bx-pager.bx-default-pager a.active {
     background: #bd2716;;
@@ -1110,4 +1114,54 @@ table td {
 }
 .box-expandable table td {
     border-right: 6px solid #396451;
+}
+
+.view-giochi-elettronici .views-row,.view-giochi-ai-tavoli .views-row{
+    float: left;
+    margin-bottom: 4px;
+    overflow: hidden;
+    position: relative;
+    width: 50%;
+    padding-right: 3px;
+}
+.view-giochi-elettronici .views-row-odd .views-field,.view-giochi-ai-tavoli .views-row-odd .views-field{
+    margin-right: 2px;
+}
+.view-giochi-elettronici .views-field-field-preview-image,.view-giochi-ai-tavoli .views-field-field-preview-image{
+    font-size: 0;
+    line-height: 0;
+}
+
+.view-giochi-elettronici .views-field-title,.view-giochi-ai-tavoli .views-field-title{
+    background-color: #efece3;
+    background-image: url("/sites/all/themes/casinovenezia/images/game-arrow.png");
+    background-position: right center;
+    background-repeat: no-repeat;
+    margin-right: 0px;
+}
+.view-giochi-elettronici .views-field-field-game-preview-text,.view-giochi-ai-tavoli .views-field-field-game-preview-text{
+    background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
+    cursor: pointer;
+    display: none;
+    position: absolute;
+    top: 0;
+    color: #fff;
+    width: 100%;
+}
+.text-preview-wrapper {
+    padding: 15px;
+}
+.view-giochi-elettronici .views-field-title a,.view-giochi-ai-tavoli .views-field-title a{
+    display: block;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 10px;
+    color: #69635e;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.columns-wrapper {
+    clear: both;
+    overflow: hidden;
 }

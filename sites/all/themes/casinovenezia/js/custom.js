@@ -41,14 +41,14 @@
         /*
          * Game preview
          */
-        $('.node-giochi-ai-tavoli .views-row').hover(function(){
+        $('.view-giochi-ai-tavoli .views-row,.view-giochi-elettronici .views-row').hover(function(){
             imageHeight = $(this).find('img').height();
-            $(this).find('.text-preview-wrapper').height(imageHeight);
-            $(this).find('.text-preview-wrapper').fadeIn();
+            $(this).find('.views-field-field-game-preview-text').height(imageHeight);
+            $(this).find('.views-field-field-game-preview-text').fadeIn();
         }, function(){
-            $(this).find('.text-preview-wrapper').fadeOut();
+            $(this).find('.views-field-field-game-preview-text').fadeOut();
         })
-        $('.text-preview-wrapper').click(function(){
+        $('.views-field-field-game-preview-text').click(function(){
             window.location=$(this).parent().find('.views-field-title').find('a').attr('href');
             return false;
         });
