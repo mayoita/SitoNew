@@ -500,6 +500,7 @@ margin-top: 330px;
 }
 .color-bg {
     padding: 20px;
+    background-color: rgb(57, 100, 81);
 
 
 }
@@ -1164,4 +1165,21 @@ table td {
 .columns-wrapper {
     clear: both;
     overflow: hidden;
+}
+.button-circle-red-small {
+    background-image: url(/sites/all/themes/casinovenezia/images/button-circle-red-small.png);
+    width: 32px;
+    height: 32px;
+}
+.button-circle-red {
+    display: inline-block;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.col-2-3 h3 {
+    font-size: 20px;
+}
+.bx-wrapper .bx-pager.bx-default-pager a {
+    background: #fff;
 }

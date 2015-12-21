@@ -26,9 +26,16 @@ function custom_shortcodes_shortcode_info() {
         'process callback' => 'custom_shortcodes_shortcode_title_with_arrow', // Custom function that deals with the variables and html output
         'tips callback' => 'custom_shortcodes_shortcode_title_with_arrow_tip' // Custom function that displays some help text to the user
     );
+
+    $shortcodes['circle-arrow'] = array(
+        'title' => t('Circle arrow'),  // The title of this shortcode, displayed in the Drupal backend for administrators to enable/disable shortcodes for input types
+        'description' => t('Add a circle arrow.'),  // Description shown along with the title in the Drupal backend
+        'process callback' => 'custom_shortcodes_shortcode_circle_arrow', // Custom function that deals with the variables and html output
+        'tips callback' => 'custom_shortcodes_shortcode_circle_arrow_tip' // Custom function that displays some help text to the user
+    );
     $shortcodes['cols-wrapper'] = array(
-        'title' => t('Cols wrapper'),  // The title of this shortcode, displayed in the Drupal backend for administrators to enable/disable shortcodes for input types
-        'description' => t('Add a cols.'),  // Description shown along with the title in the Drupal backend
+        'title' => t('Columns wrapper'),  // The title of this shortcode, displayed in the Drupal backend for administrators to enable/disable shortcodes for input types
+        'description' => t('Add a columns wrapper.'),  // Description shown along with the title in the Drupal backend
         'process callback' => 'custom_shortcodes_shortcode_cols_wrapper', // Custom function that deals with the variables and html output
         'tips callback' => 'custom_shortcodes_shortcode_cols_wrapper_tip' // Custom function that displays some help text to the user
     );
@@ -45,13 +52,17 @@ function custom_shortcodes_shortcode_info() {
 function custom_shortcodes_theme() {
     return array(
         'shortcode_box_colorbg' => array(
-            'variables' => array('color' => 'green'),
+            'variables' => array('color' => 'rgb(57, 100, 81)'),
         ),
         'shortcode_box_toggle' => array(
             'variables' => array('title' => 'Title'),
         ),
         'shortcode_title_with_arrow' => array(
             'variables' => array('title' => 'Title'),
+        ),
+
+        'shortcode_circle_arrow' => array(
+            'variables' => array('size' => 'small'),
         ),
         'shortcode_cols_wrapper' => array(
             'variables' => array('title' => 'Title'),
@@ -97,14 +108,24 @@ function custom_shortcodes_shortcode_title_with_arrow($attrs, $text) {
     return theme('shortcode_title_with_arrow', array('title' => $attrs['title'],'text' => $text));
 }
 
-function custom_shortcodes_shortcode_cols_wrapper($attrs, $text) {
+
+function custom_shortcodes_shortcode_circle_arrow($attrs, $text) {
     $attrs = shortcode_attrs(array(
-        'title' => $text
+        'size' => 'small'
     ),
         $attrs
     );
 
-    return theme('shortcodes_shortcode_cols_wrapper', array('title' => $attrs['title'],'text' => $text));
+    return theme('shortcode_circle_arrow', array('size' => $attrs['size'], 'text' => $text));
+}
+function custom_shortcodes_shortcode_cols_wrapper($attrs, $text) {
+    $attrs = shortcode_attrs(array(
+        'title' => 'Title'
+    ),
+        $attrs
+    );
+
+    return theme('shortcode_cols_wrapper', array('title' => $attrs['title'], 'text' => $text));
 }
 /**
  * This function uses the attributes passed in to return the HTML of this shortcode.
@@ -122,8 +143,14 @@ function theme_shortcode_title_with_arrow($vars) {
     return '<div class="title-with-arrow-wrapper"><div class="title-with-arrow">' . $vars['title'] . '</div></div>';
 
 }
-function theme_shortcodes_shortcode_cols_wrapper($vars) {
-    return '<div class="columns-wrapper"></div>';
+function theme_shortcode_circle_arrow($vars) {
+    if ($vars['size'] == 'small')
+        return '<a href="' . $vars['text'] . '"><span class="button-circle-red button-circle-red-small">&nbsp;</span></a>';
+
+}
+function theme_shortcode_cols_wrapper($vars) {
+
+        return '<div class="columns-wrapper">' . $vars['text'] . '</div>';
 
 }
 /**
