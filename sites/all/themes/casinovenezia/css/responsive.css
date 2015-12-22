@@ -77,16 +77,16 @@
     .event_banner {
         margin-bottom: 0px;
     }
-    #block-views-event-list-block-1 {
+    #block-views-event-list-block-1,#block-views-promozioni-list-block {
         padding-left: 10px;
         padding-right: 10px;
     }
-    #block-views-event-list-block-1 .views-field-title, #block-views-tournament-list-block .views-field-title{
+    #block-views-event-list-block-1 .views-field-title, #block-views-tournament-list-block .views-field-title, #block-views-promozioni-list-block .views-field-title{
         font-size: 18px;
         margin-top: 10px;
         margin-left: 0px;
     }
-    #block-views-event-list-block-1 .views-field-field_preview_text, #block-views-tournament-list-block .views-field-field_preview_text{
+    #block-views-event-list-block-1 .views-field-field_preview_text, #block-views-tournament-list-block .views-field-field_preview_text,#block-views-promozioni-list-block .views-field-field_preview_text{
         font-size: 18px;
         margin-left: 0px;
         font-size: 12px;
@@ -102,7 +102,12 @@
         left: 0px;
         top:10px;
     }
-    .event-list-block-1-fields .group-right, .tournament-list-block-fields .group-right{
+    #block-views-promozioni-list-block .views-field-field_from,#block-views-promozioni-list-block .views-field-nothing,#block-views-promozioni-list-block .views-field-field_from_1 {
+        font-size: 14px;
+        left: 0px;
+        top:10px;
+    }
+    .event-list-block-1-fields .group-right, .tournament-list-block-fields .group-right, .promozioni-list-block-fields .group-right{
         height: 95px;
     }
     .views-field-php{

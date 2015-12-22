@@ -133,6 +133,8 @@ function custom_shortcodes_shortcode_cols_wrapper($attrs, $text) {
 function theme_shortcode_box_colorbg($vars) {
     if ($vars['color'] == 'white')
         return '<div class="color-bg box-whitebg">' . $vars['text'] . '</div>';
+    if ($vars['color'] == 'green')
+        return '<div class="color-bg box-greenbg">' . $vars['text'] . '</div>';
     return '<div class="color-bg" style="background-color:' . $vars['color'] . '">' . $vars['text'] . '</div>';
 }
 function theme_shortcode_box_toggle($vars) {

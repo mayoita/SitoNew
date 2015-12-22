@@ -555,16 +555,22 @@ margin-top: 330px;
     font-size: 14px;
     text-transform: uppercase;
 }
+.promozioni-list-block-fields .views-field-nothing {
+    background-color: #905f37;
+    color: white;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+}
 .tournament-list-block-fields .views-field-nothing_1 {
     background-color: #BD2716;
     color: white;
 }
 
-.event-list-block-1-fields,.tournament-list-block-fields {
-    margin-top: 40px;
-}
-
-.event-list-block-1-fields .views-field-field_from,.tournament-list-block-fields .views-field-field_from{
+.event-list-block-1-fields .views-field-field_from,.tournament-list-block-fields .views-field-field_from,.promozioni-list-block-fields .views-field-field_from{
     top: 0px;
     left:20px;
     text-transform: lowercase;
@@ -572,38 +578,39 @@ margin-top: 330px;
     color: rgb(0, 0, 0);
     font-size: 16px;
 }
-.event-list-block-1-fields .views-field-title,.tournament-list-block-fields .views-field-title {
+.event-list-block-1-fields .views-field-title,.tournament-list-block-fields .views-field-title,.promozioni-list-block-fields .views-field-title {
     margin-top: 20px;
     margin-left: 20px;
     font-size: 24px;
     font-weight: bold;
 }
 
-.event-list-block-1-fields .views-field-field_preview_text,.tournament-list-block-fields .views-field-field_preview_text {
+.event-list-block-1-fields .views-field-field_preview_text,.tournament-list-block-fields .views-field-field_preview_text,.promozioni-list-block-fields .views-field-field_preview_text {
     margin-left: 20px;
     color: rgb(0, 0, 0);
     font-size: 16px;
 }
 
 
-.event-list-block-1-fields .views-field-title a,.tournament-list-block-fields .views-field-title a{
+.event-list-block-1-fields .views-field-title a,.tournament-list-block-fields .views-field-title a,.promozioni-list-block-fields .views-field-title a{
 
     text-decoration: none;
     color: #bd2716;
 
 
 }
-.event-list-block-1-fields,.tournament-list-block-fields {
+.event-list-block-1-fields,.tournament-list-block-fields,.promozioni-list-block-fields {
     background: url(../images/intro.png) 0 0 repeat;
+    margin-top: 40px;
 }
- .event-list-block-1-fields .group-left, .evento-lista .group-right,.tournament-list-block-fields .group-left, .evento-lista .group-right {
+ .event-list-block-1-fields .group-left, .evento-lista .group-right,.tournament-list-block-fields .group-left, .evento-lista .group-right,.promozioni-list-block-fields .group-left {
      padding: 0px;
  }
  .views-field-field_preview_image_events img,.views-field-field_preview_image img{
      height: 100%;
  }
 
- .event-list-block-1-fields .group-right, .tournament-list-block-fields .group-right{
+ .event-list-block-1-fields .group-right, .tournament-list-block-fields .group-right, .promozioni-list-block-fields .group-right{
      height: 120px;
  }
 
@@ -617,7 +624,7 @@ margin-top: 330px;
      position: relative;
  }
 
- .node-event-list .event_date, .node-tournament-list .event_date,.node-game .event_date,.node-game-section .event_date {
+ .node-event-list .event_date, .node-tournament-list .event_date,.node-game .event_date,.node-game-section .event_date,.node-promozioni .event_date {
      text-transform: none;
  }
 .node-event-list .field-name-body,.node-tournament-list .field-name-body {
@@ -640,7 +647,10 @@ margin-top: 330px;
     background-color:rgb(239, 236, 227);
     color: rgb(105, 99, 94);
 }
+.box-greenbg {
+    background-color:rgb(57, 100, 81);
 
+}
 .event_banner h2 {
     margin: 0;
     margin-bottom: 10px;
