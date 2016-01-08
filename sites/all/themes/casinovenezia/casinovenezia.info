@@ -60,6 +60,7 @@ stylesheets[all][] = css/responsive.css
                      scripts[] = '/js/jquery.jcarousel.min.js'
  scripts[] = '/js/jcarousel.responsive.js'
                      scripts[] = '/js/custom.js'
+ scripts[] = '/js/responsiveTabs.js'
 ;
 ; ; Disable BootstrapCDN if using Bootstrap source files in your sub-theme.
 ; settings[bootstrap_cdn] = ''

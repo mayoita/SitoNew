@@ -530,19 +530,6 @@ margin-top: 330px;
     display: none;;
 }
 
-.image_bg {
-    position: absolute;
-    z-index: -1;
-
-    top: 685px;
-
-    left: 0px;
-    right: 0px;
-    max-width: 1680px;
-    margin: 0 auto;
-    background:  url("../images/shadow.png") no-repeat scroll center;
-    height: 565px;
-}
 .color-bg a:link {
     color: #ebc444;
 }
@@ -1133,7 +1120,7 @@ table td {
     padding-right: 0;
     border-top: 1px solid white;
     border-bottom: 1px solid #cbc7bc;
-    border-right: 6px solid #1c3e30;
+
     font-family: Arial,Helvetica,"Nimbus Sans L",sans-serif;
     font-size: 15px;
 }
@@ -1189,6 +1176,10 @@ table td {
 .columns-wrapper {
     clear: both;
     overflow: hidden;
+
+}
+.col-last .columns-wrapper{
+    margin-left: 30px;
 }
 .button-circle-red-small {
     background-image: url(/sites/all/themes/casinovenezia/images/button-circle-red-small.png);
@@ -1223,4 +1214,106 @@ table td {
 .field-name-field-postscript {
     margin-left: 10px;
     margin-right: 10px;
+}
+h2 a {
+    color: white;
+}
+#node-134 .col-last {
+    margin-left: 30px;
+}
+h3 {
+    margin-top: 0px;
+}
+.responsive-tabs-wrapper {
+    overflow: hidden;
+    clear: both;
+    margin-bottom: 1em;
+}
+.horizontal-tabs-container .responsive-tabs__list {
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.horizontal-tabs-container .responsive-tabs__list .responsive-tabs__list__item--active {
+    background-color: #efece3;
+    color: #bd2716;
+}
+.horizontal-tabs-container .responsive-tabs__list .responsive-tabs__list__item {
+    background-color: #948983;
+    padding: 0;
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+    overflow: hidden;
+    color: #efece3;
+    display: block;
+    margin-right: 1px;
+    width: 24%;
+    float: left;
+}
+.responsive-tabs__heading {
+    display: none;
+}
+.horizontal-tabs-container .responsive-tabs__panel {
+    overflow: hidden;
+    background-color: #efece3;
+    color: #69635e;
+    float: left;
+    width: 100%;
+
+}
+.horizontal-tabs-container .responsive-tabs__panel .pad {
+    padding: 20px;
+    display: block;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+
+}
+.horizontal-tabs-container .responsive-tabs__panel table th {
+    border-bottom-color: #EFECE3;
+    border-right-color: #efece3;
+    text-align: inherit;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+    text-align: center;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    text-align: inherit;
+
+}
+.horizontal-tabs-container .responsive-tabs__list .responsive-tabs__list__item--active {
+    background-color: #efece3;
+    color: #bd2716;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover,.navbar-default .navbar-nav li a:hover {
+    background-color: #BBBBBB;
+    color: #BD2716;
+    transition: background-color 0.3s ease 0s;
+    transition: color 0.3s ease 0s;
+}
+.navbar-default .navbar-nav > .open > a .caret, .navbar-default .navbar-nav > .open > a:hover .caret, .navbar-default .navbar-nav > .open > a:focus .caret {
+    border-bottom-color: #BD2716;
+    border-top-color: #BD2716;
+}
+
+.navbar-default .navbar-nav .leaf a{
+    background-color: transparent!important;
+}
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
+    color: #69635e;
+}
+.dropdown-menu > li > a {
+    color: #69635e;
 }

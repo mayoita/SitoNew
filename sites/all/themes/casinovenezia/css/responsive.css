@@ -156,6 +156,15 @@
         margin-bottom: 4px;
         position: relative;
     }
+    #menu-logo {
+        display: none;
+    }
+    .navbar-nav {
+        background-color: #515151;
+    }
+    .navbar-default .navbar-nav .leaf a {
+        color: white;
+    }
 
 }
 @media (max-width: 430px) {

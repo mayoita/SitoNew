@@ -127,9 +127,6 @@
 
 
   <div class="row home">
-    <div class="image_bg"></div>
-
-
 
     <section<?php print $content_column_class; ?>>
 <div id="breadcrumb-wrapper" class="row">

@@ -39,6 +39,10 @@
             }
         });
         /*
+         * Custom shortcodes: tabs
+         */
+        RESPONSIVEUI.responsiveTabs();
+        /*
          * Game preview
          */
         $('.view-giochi-ai-tavoli .views-row,.view-giochi-elettronici .views-row').hover(function(){

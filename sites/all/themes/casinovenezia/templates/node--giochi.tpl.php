@@ -119,7 +119,7 @@
     <div class="views-row views-row-1 views-row-odd views-row-first">
 
       <div class="views-field views-field-nothing">        <div class="game-type-content">
-          <h2 class="title"><a href="/it/giochi-ai-tavoli.html" target="_blank" title="Giochi ai tavoli">Giochi ai tavoli</a></h2>
+          <h2 class="title"><a href="/it/giochi-ai-tavoli.html" target="_self" title="Giochi ai tavoli">Giochi ai tavoli</a></h2>
           <div class="text lightbg">
             <p>Al <strong>Casinò di Venezia</strong> si trovano i migliori <strong>giochi ai tavoli</strong>. Sia di tradizione francese, come la&nbsp;<strong>Roulette</strong>, lo&nbsp;<strong>Chemin de fer</strong>, il <strong>Trente et Quarante</strong> e&nbsp;il&nbsp;<strong>Punto Banco</strong>, sia di ispirazione americana, con sale per il<strong>Texas Hold'em Poker</strong>, il&nbsp;<strong>Black Jack</strong>, <strong>la Fair Roulette</strong> e il <strong>Caribbean Stud Poker</strong>.</p>
           </div>
@@ -136,7 +136,7 @@
     <div class="views-row views-row-2 views-row-even">
 
       <div class="views-field views-field-nothing">        <div class="game-type-content">
-          <h2 class="title"><a href="/it/giochi-elettronici.html" target="_blank" title="Giochi Elettronici">Giochi Elettronici</a></h2>
+          <h2 class="title"><a href="/it/giochi-elettronici.html" target="_self" title="Giochi Elettronici">Giochi Elettronici</a></h2>
           <div class="text lightbg">
             <p>Oltre <strong>600</strong>&nbsp;<strong>slot machines</strong>&nbsp;per più di <strong>700 postazioni di gioco</strong>: un’offerta in costante evoluzione, per garantire nelle due sedi del <strong>Casinò di Venezia</strong> sempre il meglio della moderna tecnologia, alla ricerca continua di una maggiore soddisfazione del cliente.</p>
           </div>
