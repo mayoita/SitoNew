@@ -14,7 +14,7 @@
 
                 if (width >= 600) {
 
-                    width = width / 3 - 20 ; //20px margin righr,
+                    width = 300; //width / 3 - 20 ; //20px margin righr,
                 } else if (width >= 350) {
                     width = width / 2 - 10;
                 }

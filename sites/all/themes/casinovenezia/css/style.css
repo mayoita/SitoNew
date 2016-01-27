@@ -68,19 +68,7 @@ em {
 .home .col-sm-12 {
  width: 100%;
 }
-/* Online image */
-#online {
-/*    z-index: 1;
-    position: absolute;
-/!*  top: calc((340 * 100%) / 1680);
-    right:calc((330* 100%) / 1680);*!/
-    right:280px;
-    top:220px;
-    max-width: 90vw;
-    height:auto;
-    width:auto;*/
 
-}
 
 /* Styling navbar*/
 
@@ -332,7 +320,7 @@ padding-left: 20px;
     border-top: 1px solid #959694;
     margin-top: 7px;
 }
-#edit-submit {
+.form-submit {
     border: 0;
     height: 22px;
     line-height: 22px;
@@ -387,6 +375,7 @@ padding-left: 20px;
 }
 #welcome-block {
     margin-top: 40px;
+    background-color: #BD2716;
 }
 /* Bottom menu*/
 .row-bottom {
@@ -483,7 +472,7 @@ margin-top: 330px;
 .event_date a{
     color: #bd2716;
 }
-.field-name-field-cover-image {
+.field-name-field-cover-carousel {
     position: absolute;
     z-index: -1;
     top:0px;
@@ -492,7 +481,7 @@ margin-top: 330px;
     max-width: 1680px;
     margin: 0 auto;
 }
-.field-name-field-cover-image img{
+.field-name-field-cover-carousel img{
 
     width: 100%;
     height: auto;
@@ -626,7 +615,7 @@ margin-top: 330px;
 .file a {
     margin-top: 10px;
 }
-.box-whitebg a:link {
+.box-whitebg a:link,.box-whitebg a:visited {
     color: rgb(189, 39, 22);
 
 }
@@ -1297,11 +1286,15 @@ tr {
     background-color: #efece3;
     color: #bd2716;
 }
-.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover,.navbar-default .navbar-nav li a:hover {
+.navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>.open>a:hover{
     background-color: #BBBBBB;
     color: #BD2716;
     transition: background-color 0.3s ease 0s;
     transition: color 0.3s ease 0s;
+}
+.navbar-default .navbar-nav li a:hover{
+    background-color: transparent;
+    color: #BD2716;
 }
 .navbar-default .navbar-nav > .open > a .caret, .navbar-default .navbar-nav > .open > a:hover .caret, .navbar-default .navbar-nav > .open > a:focus .caret {
     border-bottom-color: #BD2716;
@@ -1309,11 +1302,278 @@ tr {
 }
 
 .navbar-default .navbar-nav .leaf a{
-    background-color: transparent!important;
+    background-color: transparent;
 }
 .dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
     color: #69635e;
 }
 .dropdown-menu > li > a {
     color: #69635e;
+}
+
+#mc_embed_signup {
+    background-color: transparent;
+}
+#mc_embed_signup .mc-field-group label,#mc_embed_signup .mc-field-group strong{
+    font-size: 17px;
+}
+#block-bean-disclaimer-newsletter-en .content {
+    margin-top: 0px;
+}
+#mc_embed_signup .asterisk {
+    color: #CC0000!important;
+    font-size: 150% !important;
+}
+#mc-embedded-subscribe {
+    color: black!important;
+}
+.disclaimer a {
+    color: #bd2716;
+}
+.input-group input {
+    display: inline!important;
+    width: 20px!important;
+
+}
+.spazio {
+    height: 30px;
+}
+#mc_embed_signup .mc-field-group input {
+    color: black;
+    display: block;
+    width: 100%;
+    padding: 8px 0;
+    text-indent: 2%;
+    height: 22px;
+    width: 400px;
+}
+ .input-group ul{
+    padding-left: 0px;
+     list-style-type: none;
+}
+ #mc_embed_signup_scroll .clear {
+     margin-top: 20px;
+     margin-bottom: 30px;
+ }
+
+.webform-component label{
+    color: white;
+    margin-bottom: 0px;
+    height: 22px;
+}
+.webform-component input {
+    background-color: white;
+    border-radius: 0px;
+    display: block;
+    max-width: 100%;
+    width: 400px;
+    height: 22px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+
+}
+.webform-component textarea {
+    background-color: white;
+    border-radius: 0px;
+}
+.webform-component span {
+    color:#BD2716;
+}
+.webform-submit {
+    margin-top: 20px;
+    margin-left: 0px;
+    background-color: #E8E8E8;
+    color: black;
+    border-radius: 0px;
+    font-weight: bold;
+}
+.webform-component-radios {
+    margin-top: 20px;
+}
+.form-type-radio label {
+    padding-left: 0px;
+}
+.webform-component .description {
+    color: white;
+    font-size: 15px;
+}
+.webform-component .description a{
+    color: #EBAE33;
+
+}
+.webform-submit:hover {
+    background-color: #E8E8E8;
+    color:#BD2716 ;
+}
+.webform-component--new-markup {
+    margin-top: 20px;
+}
+
+.calTit {
+    padding: 10px 20px 0 20px;
+    background-color: #791307;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin: 0;
+    line-height: 1.2em;
+    color: white;
+}
+.calDes {
+    padding: 0 20px 10px 20px;
+    background-color: #791307;
+    border-bottom: 1px solid #e22f1a;
+    color: white;
+}
+.view-calendario .views-field-php {
+    color: #ebc444;
+    font-size: 13px;
+    font-family: Arial,Helvetica,"Nimbus Sans L",sans-serif;
+    text-transform: lowercase;
+    display: block;
+    top:0px;
+    left:0px;
+}
+.view-calendario .views-field-title a{
+    font-size: 14px;
+    font-family: Arial,Helvetica,"Nimbus Sans L",sans-serif;
+    line-height: 1.25em;
+    width: 90%;
+    color: #efece3;
+    display: block;
+}
+.view-calendario .bxslider-views-slideshow-main-frame-row {
+    padding: 20px;
+    border-bottom: 1px solid #e22f1a;
+    background: url(/sites/all/themes/casinovenezia/images/calendar_arrow_odd.png) 265px center no-repeat #991f12;
+    cursor: pointer;
+
+}
+
+.view-calendario .views-row-even {
+    background: url(/sites/all/themes/casinovenezia/images/calendar_arrow_even.png) 265px center no-repeat #791307;
+}
+.view-calendario ul {
+    padding-left: 0px;
+}
+.view-calendario .bx-viewport, .view-lista-giochi .bx-viewport{
+    border: 0px;
+    box-shadow: 0 0 0px #ccc;
+    -moz-box-shadow: 0 0 0px #ccc;
+}
+.view-calendario ul li:nth-child(even)  {
+    background: url(/sites/all/themes/casinovenezia/images/calendar_arrow_odd.png) 98% center no-repeat #991f12;
+}
+.view-calendario ul li:nth-child(odd) {
+    background: url(/sites/all/themes/casinovenezia/images/calendar_arrow_even.png) 98% center no-repeat #791307;
+}
+.bx-pager-item a {
+    box-shadow: inset 0 0 3px rgba(0,0,0,0.3);
+}
+
+.view-lista-giochi .bxslider-views-slideshow-main-frame-row{
+    text-align: center;
+    border-right: 1px solid #bd2716;
+    font-size: 18px;
+    font-weight: bold;
+    height: 48px;
+    padding: 0 13px;
+}
+.view-lista-giochi .bxslider-views-slideshow-main-frame-row a{
+    color: #69635e;
+}
+.scopri{
+    color: #bd2716;
+    font-size: 20px;
+}
+
+.view-lista-giochi .bx-controls-direction .bx-next {
+    margin-right: -32px;
+    right:0px;
+    background: url(/sites/all/themes/casinovenezia/images/button-circle-red-small.png) no-repeat 0 0;
+}
+.view-lista-giochi .bx-controls-direction .bx-prev {
+    margin-left: -32px;
+    left:0px;
+    background: url(/sites/all/themes/casinovenezia/images/button-circle-red-small-prev.png) no-repeat 0 0;
+}
+.view-lista-giochi{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#casinoonline {
+    background: url(/sites/all/themes/casinovenezia/images/casinoonline_it.png) 0 0 no-repeat transparent;
+    width: 11%;
+    height: 33.333%;
+    display: block;
+    position: absolute;
+    right: 20%;
+    top: 20%;
+    z-index: 1;
+    background-size: contain;
+}
+#social {
+    position: absolute;
+    top: 200px;
+    left: 0;
+    width: 41px;
+    height: 76px;
+    background-color: white;
+    overflow: hidden;
+    float: left;
+}
+#social #social-facebook {
+    background-image: url(/sites/all/themes/casinovenezia/images/social-facebook.png);
+}
+#social #social-twitter {
+    background-image: url(/sites/all/themes/casinovenezia/images/social-twitter.png);
+}
+
+#social .social-icon {
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    width: 29px;
+    height: 29px;
+    margin: 6px 0 0 6px;
+    line-height: 29px;
+    text-indent: -999px;
+    overflow: hidden;
+}
+.page-search-node  h2 {
+    color: white;
+    padding-left: 80px;
+}
+.search-results a {
+    color:#bd2716;
+}
+.search-results {
+    color: white;
+    padding-left: 100px;
+}
+.search-info {
+    display: none;
+}
+#search-form {
+    display: none;
+}
+.language-switcher-locale-url {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    position: absolute;
+    right: 123px;
+    top: 22px;
+}
+
+.language-switcher-locale-url li {
+    display: inline;
+    padding-right: 2px;
+
+}
+.language-switcher-locale-url li a {
+    color: #69635e;
+}
+.list-inline {
+    display: none;
 }

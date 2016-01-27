@@ -60,11 +60,13 @@
   <?php print $scripts; ?>
 <?php
 $node = menu_get_object();
-if ($node->type == "basic_page_dove_siamo") {
-  echo '<script src="http://sitonew.dd:8083/' . drupal_get_path('theme', 'casinovenezia') . '/js/map.js"></script>';
+if ($node != null) {
+  if ($node->type == "basic_page_dove_siamo") {
+    echo '<script src="http://sitonew.dd:8083/' . drupal_get_path('theme', 'casinovenezia') . '/js/map.js"></script>';
   }
-if ($node->title == "Roulette Francese") {
-  echo '<script src="http://sitonew.dd:8083/' . drupal_get_path('theme', 'casinovenezia') . '/js/r_francese.js"></script>';
+  if ($node->title == "Roulette Francese") {
+    echo '<script src="http://sitonew.dd:8083/' . drupal_get_path('theme', 'casinovenezia') . '/js/r_francese.js"></script>';
+  }
 }
 ?>
 </head>

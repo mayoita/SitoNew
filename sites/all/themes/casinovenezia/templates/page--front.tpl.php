@@ -106,6 +106,8 @@
           <?php endif; ?>
           <?php
           //D7
+          $blockloc = module_invoke('locale', 'block_view', 'language');
+          print render($blockloc['content']);
           $block = module_invoke('custom_search_blocks', 'block_view', '1');
           print render($block['content']);
           ?>
@@ -120,18 +122,23 @@
       </div>
     <?php endif; ?>
   </div>
+  <script type="text/javascript">
+    var _iub = _iub || [];
+    _iub.csConfiguration = {
+      cookiePolicyId: 633545,
+      siteId: 254071,
+      lang: "it"
+    };
+    (function (w, d) {
+      var loader = function () { var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/cookie_solution/iubenda_cs.js"; tag.parentNode.insertBefore(s, tag); };
+      if (w.addEventListener) { w.addEventListener("load", loader, false); } else if (w.attachEvent) { w.attachEvent("onload", loader); } else { w.onload = loader; }
+    })(window, document);
+  </script>
 </header>
 
 <div class="main-container container-fluid event">
-  <div class="container-im">
-    <div class="outer-im r4x3">
-      <div class="inner">
-  <img class="hidden-xs" id="online" src="<?php print $base_path . $directory .'/images/casinoonline_it.png'; ?>" width="195" height="195" alt=""/>
-      </div>
-      </div>
-  </div>
-  <div class="row home">
 
+  <div class="row home">
 
     <?php if (!empty($page['sidebar_first'])): ?>
       <aside class="col-sm-3" role="complementary">
@@ -140,6 +147,7 @@
     <?php endif; ?>
 
     <section<?php print $content_column_class; ?>>
+
       <?php if (!empty($breadcrumb)): print $breadcrumb; endif;?>
 
 
@@ -152,20 +160,37 @@
       <?php if (!empty($action_links)): ?>
         <ul class="action-links"><?php print render($action_links); ?></ul>
       <?php endif; ?>
+      <div class="container-im">
+        <div class="outer-im r4x3">
+          <div class="inner">
+            <a href="http://www.clickandplay.it/portal/portal/index.jsp" target="_blank" id="casinoonline">&nbsp;</a>
 
+          </div>
+        </div>
+      </div>
       <?php print render($page['content']); ?>
-      <div class="container" id="welcome-block">
+
+      <div class="container container-front" id="welcome-block">
 
           <div class="col-lg-4" id="home-left">
             <?php
             $block = block_load('block', '1');
-            print render(_block_get_renderable_array(_block_render_blocks(array($block))));
+            $blockb = _block_get_renderable_array(_block_render_blocks(array($block)));
+            print render($blockb);
+            $block2 = block_load('views', 'calendario-block');
+            $block2b =_block_get_renderable_array(_block_render_blocks(array($block2)));
+            print render($block2b);
             ?>
           </div>
           <div class="col-lg-8" id="home-right">
             <?php
+            $block3 = block_load('views', 'lista_giochi-block');
+            $block3b = _block_get_renderable_array(_block_render_blocks(array($block3)));
+            print render($block3b);
             $block = block_load('block', '2');
-            print render(_block_get_renderable_array(_block_render_blocks(array($block))));
+            $block4b =_block_get_renderable_array(_block_render_blocks(array($block)));
+                print render($block4b);
+
             ?>
 
         </div>
@@ -174,7 +199,10 @@
       </div>
     </section>
 
-
+    <div id="social">
+      <a href="https://www.facebook.com/casinovenezia" id="social-facebook" class="social-icon" target="_blank">Facebook</a>
+      <a href="https://twitter.com/casinovenezia" id="social-twitter" class="social-icon" target="_blank">Twitter</a>
+    </div>
 
   </div>
 
@@ -184,13 +212,15 @@
         <div class="col-md-6" id="bottom-left">
           <?php
           $block = block_load('block', '3');
-          print render(_block_get_renderable_array(_block_render_blocks(array($block))));
+          $blockb =_block_get_renderable_array(_block_render_blocks(array($block)));
+          print render($blockb);
           ?>
         </div>
         <div class="col-xs-6" id="bottom-right">
           <?php
           $block = block_load('block', '4');
-          print render(_block_get_renderable_array(_block_render_blocks(array($block))));
+           $block2b = _block_get_renderable_array(_block_render_blocks(array($block)));
+          print render($block2b);
           ?>
 
         </div>

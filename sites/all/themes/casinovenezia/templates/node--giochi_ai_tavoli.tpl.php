@@ -96,7 +96,7 @@
     </div>
   <?php endif; ?>
   <?php
-  print render($content['field_cover_image']);
+  print render($content['field_cover_carousel']);
   ?>
   <div class="content"<?php print $content_attributes; ?>>
     <div class="event_banner">

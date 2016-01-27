@@ -106,6 +106,8 @@
           <?php endif; ?>
           <?php
           //D7
+          $blockloc = module_invoke('locale', 'block_view', 'language');
+          print render($blockloc['content']);
           $block = module_invoke('custom_search_blocks', 'block_view', '1');
           print render($block['content']);
           ?>
@@ -120,6 +122,18 @@
       </div>
     <?php endif; ?>
   </div>
+  <script type="text/javascript">
+    var _iub = _iub || [];
+    _iub.csConfiguration = {
+      cookiePolicyId: 633545,
+      siteId: 254071,
+      lang: "it"
+    };
+    (function (w, d) {
+      var loader = function () { var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/cookie_solution/iubenda_cs.js"; tag.parentNode.insertBefore(s, tag); };
+      if (w.addEventListener) { w.addEventListener("load", loader, false); } else if (w.attachEvent) { w.attachEvent("onload", loader); } else { w.onload = loader; }
+    })(window, document);
+  </script>
 </header>
 
 <div class="main-container container-fluid event">
@@ -144,7 +158,10 @@
       <?php endif; ?>
       <?php print render($page['content']); ?>
     </section>
-
+    <div id="social">
+      <a href="https://www.facebook.com/casinovenezia" id="social-facebook" class="social-icon" target="_blank">Facebook</a>
+      <a href="https://twitter.com/casinovenezia" id="social-twitter" class="social-icon" target="_blank">Twitter</a>
+    </div>
     <?php if (!empty($page['sidebar_second'])): ?>
       <aside class="col-sm-3" role="complementary">
         <?php print render($page['sidebar_second']); ?>
@@ -159,13 +176,15 @@
       <div class="col-md-6" id="bottom-left">
         <?php
         $block = block_load('block', '3');
-        print render(_block_get_renderable_array(_block_render_blocks(array($block))));
+        $block_var = _block_get_renderable_array(_block_render_blocks(array($block)));
+        print render($block_var);
         ?>
       </div>
       <div class="col-xs-6" id="bottom-right">
         <?php
         $block = block_load('block', '4');
-        print render(_block_get_renderable_array(_block_render_blocks(array($block))));
+        $block_var = _block_get_renderable_array(_block_render_blocks(array($block)));
+        print render($block_var);
         ?>
 
       </div>
@@ -178,13 +197,15 @@
       <div class="col-md-6" id="bottom-left-5">
         <?php
         $block = block_load('block', '5');
-        print render(_block_get_renderable_array(_block_render_blocks(array($block))));
+        $block_var = _block_get_renderable_array(_block_render_blocks(array($block)));
+        print render($block_var);
         ?>
       </div>
       <div class="" id="bottom-right-6">
         <?php
         $block = block_load('block', '6');
-        print render(_block_get_renderable_array(_block_render_blocks(array($block))));
+        $block_var = _block_get_renderable_array(_block_render_blocks(array($block)));
+        print render($block_var);
         ?>
 
       </div>

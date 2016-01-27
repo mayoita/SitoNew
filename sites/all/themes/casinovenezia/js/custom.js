@@ -42,6 +42,25 @@
          * Custom shortcodes: tabs
          */
         RESPONSIVEUI.responsiveTabs();
+        // Link highligt to dest URL
+        $('.view-highlight-view .jcarousel-row').click(function(){
+            window.location=$(this).find('.views-field-title').find("a").attr("href");
+            return false;
+        });
+        /*
+         * Calendar click row
+         */
+        $('.view-calendario .bxslider-views-slideshow-main-frame-row').click(function(){
+            window.location=$(this).find('.views-field-title').find('a').attr('href');
+            return false;
+        });
+        // Jackpot link
+        $('#block-block-1 h2').click(function(){
+            window.location='http://www.casinovenezia.it/it/i-nostri-jackpot.html';
+        });
+        $('.i18n-en .pane-bean-jackpot .field-name-field-box-body h2').click(function(){
+            window.location='http://www.casinovenezia.it/en/our-jackpots.html';
+        });
         /*
          * Game preview
          */

@@ -279,6 +279,10 @@ function bootstrap_carousel_ctools_render_alter(&$info, &$page, &$context) {
     return FALSE;
   }
 
+  if (!isset($context['handler']->conf['display']->content)) {
+    return FALSE;
+  }
+
   foreach ($context['handler']->conf['display']->content as $id => $panel_content) {
     if ($panel_content->type == 'node') {
       $node = node_load($panel_content->configuration['nid']);

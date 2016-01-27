@@ -2,60 +2,314 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e5a8b7-8015-4020-9516-7039c6c1aedf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/responsive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/responsiveTabs.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/1680x565clubcard_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565clubcard_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565clubcard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565clubcard_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565ristorantevendramin2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565testatailgruppo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565texas_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/69411-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/campionatocdf20151631680x565.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/campionatocdf20151631680x565_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/sedeu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/cover/1680x565ultrajackpot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/thumbnail/public/carousel_images/1680x565testatatornei_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/1680x565ilparcoslot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/1680x565novitaslot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/1680x565testatalesaleslot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/1680x565thpoker.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/black-jack-1680x565_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/carribean-poker-1680x565.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/chemindefer-1680x565_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/fair-roulette-1680x565.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/roulette-francese-1680x565_0.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/cover/1680x565borghesecn_0.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/cover/1680x565borghesecn_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565borghesecn_1.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565borghesecn_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565borghesecn_2.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565borghesecn_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565casinogenerico.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565casinogenerico.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/default_images/1680x565casinogenerico.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/default_images/1680x565casinogenerico.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565clubcard_2.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565clubcard_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565foto-sala-nuova.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565foto-sala-nuova.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565one-click.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565one-click.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565ristorantigenerale.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565ristorantigenerale.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565testatagiochi.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565testatagiochi.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/1680x565testatajackpotslot.jpg" afterPath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/1680x565testatajackpotslot.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565testatatornei_0.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565testatatornei_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565vendramin1-1.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565vendramin1-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565vendramin1.jpg" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565vendramin1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565wagner.png" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565wagner.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/giochi-elettronici-1680x565.jpg" afterPath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/giochi-elettronici-1680x565.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/giochi-tavoli-1680x565.jpg" afterPath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/giochi-tavoli-1680x565.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/punto-banco-1680x565_0.jpg" afterPath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/punto-banco-1680x565_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/modules/image/sample.png" afterPath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/modules/image/sample.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/trente-quarante-1680x565_0.jpg" afterPath="$PROJECT_DIR$/sites/max/styles/overlay/private/Carousel_images/trente-quarante-1680x565_0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/casinovenezia.info" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/casinovenezia.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--140.tpl.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/1680x565borghesecn_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/1680x565clubcard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/1680x565clubcard_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/1680x565foto-sala-nuova.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/1680x565informazionibis0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/1680x565one-click.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/1680x565ristorantevendramin2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/1680x565ristorantigenerale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/1680x565testatagiochi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/1680x565texas_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/69411-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/campionatocdf20151631680x565_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/catering-palazzo-ducale-festa-del-redentore1680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/cover-1_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/covercenaromantica.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/carousel_images/covereventsmetting-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/cover/1680x565borghesecn_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/cover/1680x565ultrajackpot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/default_images/1680x565casinogenerico.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/js/gmap_markers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565borghesecn_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565borghesecn_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565clubcard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565clubcard_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565foto-sala-nuova.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565informazionibis0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565one-click.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565ristorantevendramin2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565ristorantigenerale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565testatagiochi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565texas_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/1680x565vendramin1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/69411-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/campionatocdf20151631680x565_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/catering-palazzo-ducale-festa-del-redentore1680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/cover-1_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/covercenaromantica.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/carousel_images/covereventsmetting-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/cover/1680x565borghesecn_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/cover/1680x565ultrajackpot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/media_thumbnail/public/default_images/1680x565casinogenerico.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565borghesecn_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565clubcard_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565foto-sala-nuova.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565informazionibis0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565one-click.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565ristorantigenerale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/1680x565testatagiochi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/catering-palazzo-ducale-festa-del-redentore1680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/cover-1_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/covercenaromantica.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/carousel_images/covereventsmetting-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/cover/1680x565borghesecn_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/overlay/public/default_images/1680x565casinogenerico.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/thumbnail/public/carousel_images/1680x565borghesecn_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/thumbnail/public/carousel_images/1680x565one-click.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/thumbnail/public/carousel_images/1680x565testatagiochi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/thumbnail/public/cover/1680x565borghesecn_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/acquia-drupal-7-39-45-6271.dd/files/styles/thumbnail/public/cover/1680x565ultrajackpot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/plugins/media/images/icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/plugins/media/library.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/plugins/media/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/views/tests/templates/views-view--frontpage.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/bootstrap_subtheme.info.starterkit" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/css/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/less/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/less/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/less/content.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/less/footer.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/less/header.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/less/overrides.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/less/style.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/templates/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/css/overrides.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/alter.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/block/block-admin-display-form.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/block/block.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/block/block.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/bootstrap/bootstrap-accordion.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/bootstrap/bootstrap-btn-dropdown.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/bootstrap/bootstrap-links.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/bootstrap/bootstrap-modal.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/bootstrap/bootstrap-modal.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/bootstrap/bootstrap-panel.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/bootstrap/bootstrap-panel.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/bootstrap/bootstrap-search-form-wrapper.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/common.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/file/file-managed-file.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/file/file-widget.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/icon/icon.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/icons.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/menu/menu-link.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/menu/menu-local-action.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/menu/menu-local-task.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/menu/menu-local-tasks.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/menu/menu-tree.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/pre-render.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/process.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/registry.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/search/search-block-form.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/settings.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/breadcrumb.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/breadcrumb.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/button.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/button.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/container.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/date.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/exposed-filters.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/fieldset.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/form-element-label.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/form-element.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/html-tag.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/html.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/html.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/item-list.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/links.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/page.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/page.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/pager.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/progress-bar.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/region.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/status-messages.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/table.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/textfield.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme/views/views-view-table.vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/theme/menu/menu-link.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/carousel_images/1680x565testatajackpotslot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/carousel_images/1680x565testatalesaleslot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/overlay/private/carousel_images/1680x565testatajackpotslot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/thumbnail/private/carousel_images/1680x565thpoker.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/thumbnail/private/carousel_images/black-jack-1680x565_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/thumbnail/private/carousel_images/carribean-poker-1680x565.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/thumbnail/private/carousel_images/chemindefer-1680x565_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/thumbnail/private/carousel_images/fair-roulette-1680x565.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/thumbnail/private/carousel_images/giochi-tavoli-1680x565.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/max/styles/thumbnail/private/carousel_images/roulette-francese-1680x565_0.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/CHANGELOG.txt" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/CHANGELOG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/js/misc/_vertical-tabs.js" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/js/misc/_vertical-tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/includes/admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/includes/admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/includes/ajax.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/includes/ajax.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/js/misc/ajax.js" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/js/misc/ajax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/js/ajax_view.js" afterPath="$PROJECT_DIR$/sites/all/modules/views/js/ajax_view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom_search/includes/apachesolr_search.inc" afterPath="$PROJECT_DIR$/sites/all/modules/custom_search/includes/apachesolr_search.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/js/misc/autocomplete.js" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/js/misc/autocomplete.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/block_class/block_class.info" afterPath="$PROJECT_DIR$/sites/all/modules/block_class/block_class.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/block_class/block_class.install" afterPath="$PROJECT_DIR$/sites/all/modules/block_class/block_class.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/block_class/block_class.module" afterPath="$PROJECT_DIR$/sites/all/modules/block_class/block_class.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/block_class/block_class.test" afterPath="$PROJECT_DIR$/sites/all/modules/block_class/block_class.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/js/bootstrap.admin.js" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/js/bootstrap.admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap.info" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap.make.example" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap.make.example" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/bootstrap_carousel/bootstrap_carousel.info" afterPath="$PROJECT_DIR$/sites/all/modules/bootstrap_carousel/bootstrap_carousel.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/bootstrap_carousel/bootstrap_carousel.module" afterPath="$PROJECT_DIR$/sites/all/modules/bootstrap_carousel/bootstrap_carousel.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/ckeditor-3.0.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/ckeditor-3.0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/css/ckeditor.admin.css" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/css/ckeditor.admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/includes/ckeditor.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/includes/ckeditor.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/includes/ckeditor.admin.js" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/includes/ckeditor.admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/ckeditor.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/ckeditor.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/ckeditor.config.js" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/ckeditor.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/ckeditor.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/ckeditor.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/ckeditor.info" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/ckeditor.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/ckeditor.install" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/ckeditor.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/libraries/ckeditor/ckeditor.js" afterPath="$PROJECT_DIR$/sites/all/libraries/ckeditor/ckeditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/includes/ckeditor.lib.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/includes/ckeditor.lib.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/ckeditor.module" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/ckeditor.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/includes/ckeditor.page.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/includes/ckeditor.page.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/includes/ckeditor.utils.js" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/includes/ckeditor.utils.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/custom.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom_shortcodes/custom_shortcodes.module" afterPath="$PROJECT_DIR$/sites/all/modules/custom_shortcodes/custom_shortcodes.module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom_search/custom_search.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/custom_search/custom_search.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom_search/custom_search.info" afterPath="$PROJECT_DIR$/sites/all/modules/custom_search/custom_search.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom_search/js/custom_search.js" afterPath="$PROJECT_DIR$/sites/all/modules/custom_search/js/custom_search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom_search/custom_search.module" afterPath="$PROJECT_DIR$/sites/all/modules/custom_search/custom_search.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom_search/modules/custom_search_blocks/custom_search_blocks.info" afterPath="$PROJECT_DIR$/sites/all/modules/custom_search/modules/custom_search_blocks/custom_search_blocks.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom_search/modules/custom_search_i18n/custom_search_i18n.info" afterPath="$PROJECT_DIR$/sites/all/modules/custom_search/modules/custom_search_i18n/custom_search_i18n.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom_search/modules/custom_search_taxonomy/custom_search_taxonomy.info" afterPath="$PROJECT_DIR$/sites/all/modules/custom_search/modules/custom_search_taxonomy/custom_search_taxonomy.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/ds.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/ds/ds.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_ui/includes/ds.classes.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_ui/includes/ds.classes.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/ds.ds_fields_info.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ds/ds.ds_fields_info.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/includes/ds.field_ui.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ds/includes/ds.field_ui.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_ui/includes/ds.fields.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_ui/includes/ds.fields.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/ds.info" afterPath="$PROJECT_DIR$/sites/all/modules/ds/ds.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/ds.module" afterPath="$PROJECT_DIR$/sites/all/modules/ds/ds.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_devel/ds_devel.info" afterPath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_devel/ds_devel.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/tests/ds_exportables_test/ds_exportables_test.info" afterPath="$PROJECT_DIR$/sites/all/modules/ds/tests/ds_exportables_test/ds_exportables_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_extras/ds_extras.info" afterPath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_extras/ds_extras.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_extras/ds_extras.module" afterPath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_extras/ds_extras.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_format/ds_format.info" afterPath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_format/ds_format.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_forms/ds_forms.info" afterPath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_forms/ds_forms.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_search/ds_search.info" afterPath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_search/ds_search.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/tests/ds_test.info" afterPath="$PROJECT_DIR$/sites/all/modules/ds/tests/ds_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_ui/ds_ui.info" afterPath="$PROJECT_DIR$/sites/all/modules/ds/modules/ds_ui/ds_ui.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/epiceditor.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/epiceditor.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/epiceditor.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/epiceditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/fckeditor-2.6.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/fckeditor-2.6.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/fckeditor.config.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/fckeditor.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/fckeditor.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/fckeditor.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/components/file.inc" afterPath="$PROJECT_DIR$/sites/all/modules/webform/components/file.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom_search/includes/forms.inc" afterPath="$PROJECT_DIR$/sites/all/modules/custom_search/includes/forms.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/components/grid.inc" afterPath="$PROJECT_DIR$/sites/all/modules/webform/components/grid.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/includes/handlers.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/includes/handlers.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/jcarousel.responsive.css" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/jcarousel.responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/jcarousel.responsive.js" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/jcarousel.responsive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/jwysiwyg.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/jwysiwyg.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/link/tests/link.attribute.test" afterPath="$PROJECT_DIR$/sites/all/modules/link/tests/link.attribute.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/link/tests/link.crud_browser.test" afterPath="$PROJECT_DIR$/sites/all/modules/link/tests/link.crud_browser.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/link/link.info" afterPath="$PROJECT_DIR$/sites/all/modules/link/link.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/link/link.module" afterPath="$PROJECT_DIR$/sites/all/modules/link/link.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/link/tests/link.token.test" afterPath="$PROJECT_DIR$/sites/all/modules/link/tests/link.token.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/link/tests/link.validate.test" afterPath="$PROJECT_DIR$/sites/all/modules/link/tests/link.validate.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/markitup.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/markitup.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/js/modules/ctools/js/modal.js" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/js/modules/ctools/js/modal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/nicedit.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/nicedit.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/nicedit.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/nicedit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--events.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--events.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game_section.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game_section.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi_ai_tavoli.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi_ai_tavoli.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--tournament_list.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--tournament_list.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/modules/node.views.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/modules/node.views.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/none.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/none.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/components/number.inc" afterPath="$PROJECT_DIR$/sites/all/modules/webform/components/number.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/openwysiwyg.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/openwysiwyg.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/openwysiwyg.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/openwysiwyg.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--front.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--front.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--tournament.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--tournament.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/plugins/mediaembed/plugin.js" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/plugins/mediaembed/plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/includes/plugins.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/includes/plugins.inc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/responsive.css" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/components/select.inc" afterPath="$PROJECT_DIR$/sites/all/modules/webform/components/select.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ckeditor/includes/jqueryUI/sort.js" afterPath="$PROJECT_DIR$/sites/all/modules/ckeditor/includes/jqueryUI/sort.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/template.php" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme-settings.php" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/theme-settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/tinymce-2.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/tinymce-2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/tinymce-3.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/tinymce-3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/tinymce.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/tinymce.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/modules/translation.views.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/modules/translation.views.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/includes/view.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/includes/view.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/views-view--highlight-view--block.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/views-view--highlight-view--block.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/theme/views-view-table.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/views/theme/views-view-table.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/views.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/views/views.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/views.info" afterPath="$PROJECT_DIR$/sites/all/modules/views/views.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/views.install" afterPath="$PROJECT_DIR$/sites/all/modules/views/views.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/views.module" afterPath="$PROJECT_DIR$/sites/all/modules/views/views.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/handlers/views_handler_area_view.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/handlers/views_handler_area_view.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/handlers/views_handler_argument.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/handlers/views_handler_argument.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/modules/field/views_handler_field_field.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/modules/field/views_handler_field_field.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/modules/locale/views_handler_field_locale_link_edit.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/modules/locale/views_handler_field_locale_link_edit.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/handlers/views_handler_field_math.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/handlers/views_handler_field_math.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/handlers/views_handler_filter_combine.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/handlers/views_handler_filter_combine.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/modules/taxonomy/views_handler_filter_term_node_tid.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/modules/taxonomy/views_handler_filter_term_node_tid.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_argument_validate.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_argument_validate.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_display.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_display.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_display_block.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_display_block.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_query_default.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_query_default.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_style.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_style.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_style_rss.inc" afterPath="$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_style_rss.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/tests/views_test.info" afterPath="$PROJECT_DIR$/sites/all/modules/views/tests/views_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/tests/views_test.module" afterPath="$PROJECT_DIR$/sites/all/modules/views/tests/views_test.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/views_ui.info" afterPath="$PROJECT_DIR$/sites/all/modules/views/views_ui.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/views/views_ui.module" afterPath="$PROJECT_DIR$/sites/all/modules/views/views_ui.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/css/webform-admin.css" afterPath="$PROJECT_DIR$/sites/all/modules/webform/css/webform-admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/js/webform-admin.js" afterPath="$PROJECT_DIR$/sites/all/modules/webform/js/webform-admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/includes/webform.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/webform/includes/webform.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/includes/webform.components.inc" afterPath="$PROJECT_DIR$/sites/all/modules/webform/includes/webform.components.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/includes/webform.conditionals.inc" afterPath="$PROJECT_DIR$/sites/all/modules/webform/includes/webform.conditionals.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/webform.drush.inc" afterPath="$PROJECT_DIR$/sites/all/modules/webform/webform.drush.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/webform.info" afterPath="$PROJECT_DIR$/sites/all/modules/webform/webform.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/webform.install" afterPath="$PROJECT_DIR$/sites/all/modules/webform/webform.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/js/webform.js" afterPath="$PROJECT_DIR$/sites/all/modules/webform/js/webform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/webform.module" afterPath="$PROJECT_DIR$/sites/all/modules/webform/webform.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/includes/webform.report.inc" afterPath="$PROJECT_DIR$/sites/all/modules/webform/includes/webform.report.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/includes/webform.submissions.inc" afterPath="$PROJECT_DIR$/sites/all/modules/webform/includes/webform.submissions.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/webform.tokens.inc" afterPath="$PROJECT_DIR$/sites/all/modules/webform/webform.tokens.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/webform/views/webform_handler_field_submission_data.inc" afterPath="$PROJECT_DIR$/sites/all/modules/webform/views/webform_handler_field_submission_data.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/whizzywig-56.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/whizzywig-56.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/whizzywig-60.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/whizzywig-60.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/whizzywig.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/whizzywig.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/whizzywig.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/whizzywig.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/wymeditor.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/wymeditor.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/wymeditor.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/wymeditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.api.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.info" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.init.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.install" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.module" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/tests/wysiwyg_test.info" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/tests/wysiwyg_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/yui.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/yui.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/yui.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/yui.js" />
     </list>
     <ignored path="new.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -89,28 +343,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-194.18518">
-              <caret line="1317" column="19" selection-start-line="1317" selection-start-column="19" selection-end-line="1317" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/responsive.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3923077">
-              <caret line="164" column="39" selection-start-line="164" selection-start-column="39" selection-end-line="164" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="node--giochi.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875">
-              <caret line="128" column="36" selection-start-line="128" selection-start-column="36" selection-end-line="128" selection-end-column="36" />
+            <state vertical-scroll-proportion="-37.407406">
+              <caret line="1569" column="20" selection-start-line="1569" selection-start-column="20" selection-end-line="1569" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -126,11 +360,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="node--events.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--events.tpl.php">
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.25">
-              <caret line="126" column="29" selection-start-line="126" selection-start-column="29" selection-end-line="126" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.69186527">
+              <caret line="347" column="25" selection-start-line="347" selection-start-column="25" selection-end-line="347" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ckeditor.inc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/ckeditor.inc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="69.375">
+              <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="node--event_list.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--event_list.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -139,18 +393,28 @@
       <file leaf-file-name="page--front.tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--front.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.7916665">
-              <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.588235">
+              <caret line="108" column="10" selection-start-line="108" selection-start-column="10" selection-end-line="109" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page--tournament.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--tournament.tpl.php">
+      <file leaf-file-name="node--bootstrap_carousel.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--bootstrap_carousel.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.375">
-              <caret line="128" column="24" selection-start-line="128" selection-start-column="24" selection-end-line="128" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="node--page.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--page.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -159,28 +423,18 @@
       <file leaf-file-name="page.tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.041667">
-              <caret line="128" column="24" selection-start-line="128" selection-start-column="24" selection-end-line="128" selection-end-column="24" />
+            <state vertical-scroll-proportion="-15.0">
+              <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="block.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/block.tpl.php">
+      <file leaf-file-name="html.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ds-2col.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/ds-2col.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.375">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.588235">
+              <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -201,16 +455,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/ds-2col--ds-views-event-list-page-fields.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/ds-2col--ds-views.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page--event-list.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page--node--92.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/page--tournament.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/ds-2col--node-tournament.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/ds-2col-stacked--node-tournament.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/ds_layouts/custom_ds/custom_ds.css" />
-        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/ds_layouts/custom_ds/custom_ds.inc" />
-        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/ds-row-fields--tournament-list--block.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/ds-2col.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/node--events.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/node--tournament.tpl.php" />
@@ -232,24 +476,34 @@
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/js/custom.js" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/templates/html.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap_subtheme/css/style.css" />
-        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/modules/custom_variable/custom_variable.module" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/r_francese.js" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--112.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game_section.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/views-view--giochi-ai-tavoli--block.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/views-view--giochi-elettronici--block.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--bootstrap_carousel.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/responsive.js" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/responsiveTabs.js" />
-        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/custom.js" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/casinovenezia.info" />
         <option value="$PROJECT_DIR$/sites/all/modules/custom_shortcodes/custom_shortcodes.module" />
-        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--front.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--tournament.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--140.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/jcarousel.responsive.js" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/jcarousel.responsive.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/js/custom.js" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/views-view--highlight-view--block.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--page.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--events.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--tournament_list.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game_section.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap/templates/menu/menu-link.func.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi_ai_tavoli.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/ckeditor.inc" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--front.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/casinovenezia/css/responsive.css" />
       </list>
@@ -268,8 +522,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="594" />
+    <option name="y" value="61" />
+    <option name="width" value="1263" />
+    <option name="height" value="1337" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -294,7 +550,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -309,7 +564,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
+              <option name="myItemId" value="SitoNew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -319,21 +574,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
+              <option name="myItemId" value="SitoNew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -347,7 +588,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
+              <option name="myItemId" value="SitoNew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -373,7 +614,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
+              <option name="myItemId" value="SitoNew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -403,37 +644,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="casinovenezia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
+              <option name="myItemId" value="SitoNew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -463,7 +674,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
+              <option name="myItemId" value="SitoNew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -478,6 +689,14 @@
               <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="casinovenezia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -485,7 +704,153 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="SitoNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SitoNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SitoNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SitoNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wysiwyg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SitoNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wysiwyg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="editors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SitoNew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -507,7 +872,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
+              <option name="myItemId" value="SitoNew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -523,7 +888,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="custom_shortcodes" />
+              <option name="myItemId" value="ckeditor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -533,7 +898,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
+              <option name="myItemId" value="SitoNew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -548,6 +913,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -556,7 +922,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="FullScreen" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -617,21 +983,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="594" y="61" width="1263" height="1337" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18313253" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.021459227" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.02948403" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21959943" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3153153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.045045044" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18313253" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -658,27 +1024,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom_shortcodes/custom_shortcodes.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="102" column="24" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -764,13 +1109,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/views-view-unformatted--event-list--page.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/ds_layouts/custom_ds/custom_ds.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -778,52 +1116,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/theme/system/page.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="137" column="6" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/custom_shortcodes/custom_shortcodes.info">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--tournament_list.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--event_list.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/theme/menu/menu-link.func.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.625">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/theme/menu/menu-link.func.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.125">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/jcarousel.responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -862,20 +1158,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--bootstrap_carousel.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="100" column="58" selection-start-line="100" selection-start-column="58" selection-end-line="100" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--promozioni.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -897,26 +1179,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi_ai_tavoli.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78434503">
-          <caret line="158" column="6" selection-start-line="158" selection-start-column="6" selection-end-line="158" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/casinovenezia.info">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="59" column="62" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -924,7 +1190,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="208" column="11" selection-start-line="208" selection-start-column="11" selection-end-line="208" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -932,23 +1197,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="201" column="1" selection-start-line="201" selection-start-column="1" selection-end-line="201" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--page.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/jcarousel.responsive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/jcarousel.responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.0">
+          <caret line="160" column="0" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--events.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-35.625">
+          <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--tournament.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.583334">
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--tournament_list.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.25">
+          <caret line="120" column="0" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game_section.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-30.625">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.083334">
+          <caret line="128" column="36" selection-start-line="128" selection-start-column="36" selection-end-line="128" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--game.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-30.625">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/menu/menu-link.func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.875">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi_ai_tavoli.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="94" column="32" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/views-view-unformatted--event-list--page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/views-view--highlight-view--block.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -956,14 +1295,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/ds-2col.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.375">
+        <state vertical-scroll-proportion="0.0">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--140.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--bootstrap_carousel.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--event_list.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/ckeditor.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="69.375">
+          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/html.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.588235">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -976,58 +1360,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--events.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.25">
-          <caret line="126" column="29" selection-start-line="126" selection-start-column="29" selection-end-line="126" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--tournament.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.375">
-          <caret line="128" column="24" selection-start-line="128" selection-start-column="24" selection-end-line="128" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page--front.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.7916665">
-          <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+        <state vertical-scroll-proportion="-10.588235">
+          <caret line="108" column="10" selection-start-line="108" selection-start-column="10" selection-end-line="109" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.041667">
-          <caret line="128" column="24" selection-start-line="128" selection-start-column="24" selection-end-line="128" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/templates/node--giochi.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
-          <caret line="128" column="36" selection-start-line="128" selection-start-column="36" selection-end-line="128" selection-end-column="36" />
+        <state vertical-scroll-proportion="-15.0">
+          <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-194.18518">
-          <caret line="1317" column="19" selection-start-line="1317" selection-start-column="19" selection-end-line="1317" selection-end-column="19" />
+        <state vertical-scroll-proportion="-37.407406">
+          <caret line="1569" column="20" selection-start-line="1569" selection-start-column="20" selection-end-line="1569" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/casinovenezia/css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3923077">
-          <caret line="164" column="39" selection-start-line="164" selection-start-column="39" selection-end-line="164" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.69186527">
+          <caret line="347" column="25" selection-start-line="347" selection-start-column="25" selection-end-line="347" selection-end-column="25" />
           <folding />
         </state>
       </provider>
